@@ -1,0 +1,1367 @@
+{
+  "limit": 272,
+  "start": 0,
+  "total": 272,
+  "hits": [
+    {
+      "name": "UvicSpace",
+      "id": "1828/0",
+      "parent_id": null
+    },
+    {
+      "name": "Canadian Institute for Substance Use Research",
+      "id": "1828/4753",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Publications (CISUR)",
+      "id": "1828/4958",
+      "parent_id": "1828/4753"
+    },
+    {
+      "name": "Bulletins (CISUR)",
+      "id": "1828/4754",
+      "parent_id": "1828/4753"
+    },
+    {
+      "name": "Research Reports (CISUR)",
+      "id": "1828/4755",
+      "parent_id": "1828/4753"
+    },
+    {
+      "name": "Annual Reports (CISUR)",
+      "id": "1828/4756",
+      "parent_id": "1828/4753"
+    },
+    {
+      "name": "Centre for Asia-Pacific Initiatives",
+      "id": "1828/8113",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "The Malaysian Social Research Institute",
+      "id": "1828/8114",
+      "parent_id": "1828/8113"
+    },
+    {
+      "name": "Centre for Co-operative and Community-Based Economy",
+      "id": "1828/4455",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Graduate Student Fellows (CCCBE)",
+      "id": "1828/4456",
+      "parent_id": "1828/4455"
+    },
+    {
+      "name": "Bennett, Nathan",
+      "id": "1828/4457",
+      "parent_id": "1828/4456"
+    },
+    {
+      "name": "Centre for Forest Biology",
+      "id": "1828/9900",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Publications (Centre for Forest Biology)",
+      "id": "1828/9901",
+      "parent_id": "1828/9900"
+    },
+    {
+      "name": "Centre for Global Studies",
+      "id": "1828/4413",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Water, Innovation, and Global Governance Lab (WIGG)",
+      "id": "1828/4435",
+      "parent_id": "1828/4413"
+    },
+    {
+      "name": "WIGG Publications Library",
+      "id": "1828/4436",
+      "parent_id": "1828/4435"
+    },
+    {
+      "name": "POLIS Project on Ecological Governance",
+      "id": "1828/4414",
+      "parent_id": "1828/4413"
+    },
+    {
+      "name": "POLIS Publications Library",
+      "id": "1828/4415",
+      "parent_id": "1828/4414"
+    },
+    {
+      "name": "Fellows and Associates Publications (Centre for Global Studies)",
+      "id": "1828/6240",
+      "parent_id": "1828/4413"
+    },
+    {
+      "name": "Centre for Indigenous Research and Community-Led Engagement (CIRCLE)",
+      "id": "1828/5373",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "CIRCLE reports",
+      "id": "1828/5374",
+      "parent_id": "1828/5373"
+    },
+    {
+      "name": "CIRCLE books",
+      "id": "1828/5375",
+      "parent_id": "1828/5373"
+    },
+    {
+      "name": "AHRNetS reports",
+      "id": "1828/5376",
+      "parent_id": "1828/5373"
+    },
+    {
+      "name": "Centre for Social and Sustainable Innovation",
+      "id": "1828/10444",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Carbon Reports",
+      "id": "1828/10445",
+      "parent_id": "1828/10444"
+    },
+    {
+      "name": "Publications",
+      "id": "1828/13742",
+      "parent_id": "1828/10444"
+    },
+    {
+      "name": "Centre for Studies in Religion and Society",
+      "id": "1828/4490",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Annual Reports (Centre for Studies in Religion and Society)",
+      "id": "1828/6788",
+      "parent_id": "1828/4490"
+    },
+    {
+      "name": "Newsletters (Centre for Studies in Religion and Society)",
+      "id": "1828/6789",
+      "parent_id": "1828/4490"
+    },
+    {
+      "name": "Centre for Studies in Religion and Society Publications Library",
+      "id": "1828/4491",
+      "parent_id": "1828/4490"
+    },
+    {
+      "name": "Division of Medical Sciences",
+      "id": "1828/4601",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Faculty Publications (Medical Sciences)",
+      "id": "1828/4602",
+      "parent_id": "1828/4601"
+    },
+    {
+      "name": "Environmental Law Centre",
+      "id": "1828/4473",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Environmental Law Centre Publications",
+      "id": "1828/4474",
+      "parent_id": "1828/4473"
+    },
+    {
+      "name": "Faculty of Education",
+      "id": "1828/85",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Department of Indigenous Education",
+      "id": "1828/8570",
+      "parent_id": "1828/85"
+    },
+    {
+      "name": "Theses (Indigenous Education)",
+      "id": "1828/8571",
+      "parent_id": "1828/8570"
+    },
+    {
+      "name": "MEd Projects (Indigenous Education)",
+      "id": "1828/8572",
+      "parent_id": "1828/8570"
+    },
+    {
+      "name": "Department of Curriculum and Instruction",
+      "id": "1828/98",
+      "parent_id": "1828/85"
+    },
+    {
+      "name": "Theses (Curriculum and Instruction)",
+      "id": "1828/99",
+      "parent_id": "1828/98"
+    },
+    {
+      "name": "MEd Projects (Curriculum and Instruction)",
+      "id": "1828/1350",
+      "parent_id": "1828/98"
+    },
+    {
+      "name": "School of Exercise Science, Physical and Health Education",
+      "id": "1828/96",
+      "parent_id": "1828/85"
+    },
+    {
+      "name": "Theses (Exercise Science)",
+      "id": "1828/97",
+      "parent_id": "1828/96"
+    },
+    {
+      "name": "Graduate Projects (Exercise Science)",
+      "id": "1828/1351",
+      "parent_id": "1828/96"
+    },
+    {
+      "name": "Department of Educational Psychology and Leadership Studies",
+      "id": "1828/86",
+      "parent_id": "1828/85"
+    },
+    {
+      "name": "Theses (Educational Psychology)",
+      "id": "1828/87",
+      "parent_id": "1828/86"
+    },
+    {
+      "name": "MEd Projects (Educational Psychology)",
+      "id": "1828/1480",
+      "parent_id": "1828/86"
+    },
+    {
+      "name": "MEd Projects (Leadership Studies)",
+      "id": "1828/1352",
+      "parent_id": "1828/86"
+    },
+    {
+      "name": "NEȾOLṈEW̱ ‘one mind, one people’: Indigenous Language Research Network",
+      "id": "1828/9200",
+      "parent_id": "1828/85"
+    },
+    {
+      "name": "Faculty Publications (Education)",
+      "id": "1828/4610",
+      "parent_id": "1828/85"
+    },
+    {
+      "name": "Faculty of Engineering",
+      "id": "1828/74",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Department of Mechanical Engineering",
+      "id": "1828/88",
+      "parent_id": "1828/74"
+    },
+    {
+      "name": "Theses (Mechanical Engineering)",
+      "id": "1828/89",
+      "parent_id": "1828/88"
+    },
+    {
+      "name": "Graduate Projects (Mechanical Engineering)",
+      "id": "1828/8101",
+      "parent_id": "1828/88"
+    },
+    {
+      "name": "Department of Computer Science",
+      "id": "1828/75",
+      "parent_id": "1828/74"
+    },
+    {
+      "name": "Technical Reports (Computer Science)",
+      "id": "1828/9028",
+      "parent_id": "1828/75"
+    },
+    {
+      "name": "Theses (Computer Science)",
+      "id": "1828/76",
+      "parent_id": "1828/75"
+    },
+    {
+      "name": "Graduate Projects (Computer Science)",
+      "id": "1828/5743",
+      "parent_id": "1828/75"
+    },
+    {
+      "name": "Department of Electrical and Computer Engineering",
+      "id": "1828/102",
+      "parent_id": "1828/74"
+    },
+    {
+      "name": "Theses (Electrical and Computer Engineering)",
+      "id": "1828/103",
+      "parent_id": "1828/102"
+    },
+    {
+      "name": "Graduate Projects (Electrical and Computer Engineering)",
+      "id": "1828/5714",
+      "parent_id": "1828/102"
+    },
+    {
+      "name": "Department of Civil Engineering",
+      "id": "1828/7095",
+      "parent_id": "1828/74"
+    },
+    {
+      "name": "Theses (Civil Engineering)",
+      "id": "1828/7096",
+      "parent_id": "1828/7095"
+    },
+    {
+      "name": "Faculty Publications (Engineering)",
+      "id": "1828/1424",
+      "parent_id": "1828/74"
+    },
+    {
+      "name": "Groundwater Science + Sustainability Research Group",
+      "id": "1828/11169",
+      "parent_id": "1828/74"
+    },
+    {
+      "name": "Faculty of Fine Arts",
+      "id": "1828/165",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Department of Theatre",
+      "id": "1828/170",
+      "parent_id": "1828/165"
+    },
+    {
+      "name": "Theses (Theatre)",
+      "id": "1828/171",
+      "parent_id": "1828/170"
+    },
+    {
+      "name": "MA Projects (Theatre History)",
+      "id": "1828/8301",
+      "parent_id": "1828/170"
+    },
+    {
+      "name": "Oral History Dance Collection",
+      "id": "1828/4327",
+      "parent_id": "1828/170"
+    },
+    {
+      "name": "School of Music",
+      "id": "1828/168",
+      "parent_id": "1828/165"
+    },
+    {
+      "name": "MMus Projects (Music Technology)",
+      "id": "1828/9663",
+      "parent_id": "1828/168"
+    },
+    {
+      "name": "Theses (Music)",
+      "id": "1828/169",
+      "parent_id": "1828/168"
+    },
+    {
+      "name": "School of Music Recordings (Restricted)",
+      "id": "1828/1008",
+      "parent_id": "1828/168"
+    },
+    {
+      "name": "Department of Art History and Visual Studies",
+      "id": "1828/166",
+      "parent_id": "1828/165"
+    },
+    {
+      "name": "Theses (Art History and Visual Studies)",
+      "id": "1828/167",
+      "parent_id": "1828/166"
+    },
+    {
+      "name": "Department of Visual Arts",
+      "id": "1828/172",
+      "parent_id": "1828/165"
+    },
+    {
+      "name": "Theses (Visual Arts)",
+      "id": "1828/173",
+      "parent_id": "1828/172"
+    },
+    {
+      "name": "Department of Writing",
+      "id": "1828/174",
+      "parent_id": "1828/165"
+    },
+    {
+      "name": "Theses (Writing)",
+      "id": "1828/175",
+      "parent_id": "1828/174"
+    },
+    {
+      "name": "Faculty Publications (Fine Arts)",
+      "id": "1828/4611",
+      "parent_id": "1828/165"
+    },
+    {
+      "name": "Faculty of Graduate Studies",
+      "id": "1828/11",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Theses (Interdisciplinary Indigenous Education)",
+      "id": "1828/5807",
+      "parent_id": "1828/11"
+    },
+    {
+      "name": "Theses (Interdisciplinary Graduate Program)",
+      "id": "1828/177",
+      "parent_id": "1828/11"
+    },
+    {
+      "name": "Theses (Neuroscience)",
+      "id": "1828/4549",
+      "parent_id": "1828/11"
+    },
+    {
+      "name": "Theses (Social Dimensions of Health)",
+      "id": "1828/3382",
+      "parent_id": "1828/11"
+    },
+    {
+      "name": "ETD (Restricted Theses UVic campus only)",
+      "id": "1828/3264",
+      "parent_id": "1828/11"
+    },
+    {
+      "name": "ETD (Electronic Theses and Dissertations)",
+      "id": "1828/12",
+      "parent_id": "1828/11"
+    },
+    {
+      "name": "Faculty of Human and Social Development",
+      "id": "1828/80",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "School of Nursing",
+      "id": "1828/161",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "InspireNet: INnovative health Services & Practice Informed by Research & Evaluation Network",
+      "id": "1828/8143",
+      "parent_id": "1828/161"
+    },
+    {
+      "name": "Knowledge to Action (KTA) Virtual Podium Archived Recordings",
+      "id": "1828/8144",
+      "parent_id": "1828/8143"
+    },
+    {
+      "name": "Lunch & Learn KT Webinars",
+      "id": "1828/8153",
+      "parent_id": "1828/8143"
+    },
+    {
+      "name": "e-health, e-technologies and Informatics Action Team Recordings",
+      "id": "1828/8161",
+      "parent_id": "1828/8143"
+    },
+    {
+      "name": "JBI Centre for Evidence Informed Nursing and Health Care",
+      "id": "1828/13604",
+      "parent_id": "1828/161"
+    },
+    {
+      "name": "Systematic Review Protocols",
+      "id": "1828/13605",
+      "parent_id": "1828/13604"
+    },
+    {
+      "name": "Systematic Review Reports",
+      "id": "1828/13606",
+      "parent_id": "1828/13604"
+    },
+    {
+      "name": "Theses (Nursing)",
+      "id": "1828/162",
+      "parent_id": "1828/161"
+    },
+    {
+      "name": "Graduate Projects (Nursing)",
+      "id": "1828/1353",
+      "parent_id": "1828/161"
+    },
+    {
+      "name": "School of Social Work",
+      "id": "1828/163",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Theses (Social Work)",
+      "id": "1828/164",
+      "parent_id": "1828/163"
+    },
+    {
+      "name": "Graduate Projects (Social Work)",
+      "id": "1828/3593",
+      "parent_id": "1828/163"
+    },
+    {
+      "name": "School of Public Administration",
+      "id": "1828/83",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Theses (Public Administration)",
+      "id": "1828/84",
+      "parent_id": "1828/83"
+    },
+    {
+      "name": "Theses (Dispute Resolution)",
+      "id": "1828/3378",
+      "parent_id": "1828/83"
+    },
+    {
+      "name": "Theses (Community Development)",
+      "id": "1828/3379",
+      "parent_id": "1828/83"
+    },
+    {
+      "name": "Master's Projects (Master of Public Administration; Master of Arts in Dispute Resolution; Master of Community Development)",
+      "id": "1828/1012",
+      "parent_id": "1828/83"
+    },
+    {
+      "name": "School of Public Health and Social Policy",
+      "id": "1828/3376",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Theses (Public Health and Social Policy)",
+      "id": "1828/3377",
+      "parent_id": "1828/3376"
+    },
+    {
+      "name": "Indigenous Governance",
+      "id": "1828/7475",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Graduate Projects (Indigenous Governance)",
+      "id": "1828/7477",
+      "parent_id": "1828/7475"
+    },
+    {
+      "name": "Theses (Indigenous Governance)",
+      "id": "1828/7476",
+      "parent_id": "1828/7475"
+    },
+    {
+      "name": "Indigenous Child Welfare Research Network",
+      "id": "1828/1431",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "School of Child and Youth Care",
+      "id": "1828/159",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Theses (Child and Youth Care)",
+      "id": "1828/160",
+      "parent_id": "1828/159"
+    },
+    {
+      "name": "Graduate Projects (Child and Youth Care)",
+      "id": "1828/7225",
+      "parent_id": "1828/159"
+    },
+    {
+      "name": "School of Health Information Science",
+      "id": "1828/81",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Theses (Health Information Science)",
+      "id": "1828/82",
+      "parent_id": "1828/81"
+    },
+    {
+      "name": "Graduate Projects (Health Information Science)",
+      "id": "1828/1354",
+      "parent_id": "1828/81"
+    },
+    {
+      "name": "Theses (Studies in Policy and Practice)",
+      "id": "1828/3381",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Theses (Indigenous Governance)",
+      "id": "1828/3380",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Faculty Publications (Human & Social Development)",
+      "id": "1828/4612",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Graduate Publications (Human and Social Development)",
+      "id": "1828/6177",
+      "parent_id": "1828/80"
+    },
+    {
+      "name": "Faculty of Humanities",
+      "id": "1828/77",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Department of English",
+      "id": "1828/145",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (English)",
+      "id": "1828/146",
+      "parent_id": "1828/145"
+    },
+    {
+      "name": "Department of Germanic and Slavic Studies",
+      "id": "1828/147",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (Germanic and Slavic Studies)",
+      "id": "1828/148",
+      "parent_id": "1828/147"
+    },
+    {
+      "name": "MA Projects (Germanic and Slavic Studies)",
+      "id": "1828/13730",
+      "parent_id": "1828/147"
+    },
+    {
+      "name": "Department of Greek and Roman Studies",
+      "id": "1828/149",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (Greek and Roman Studies)",
+      "id": "1828/150",
+      "parent_id": "1828/149"
+    },
+    {
+      "name": "Department of Hispanic and Italian Studies",
+      "id": "1828/151",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (Hispanic and Italian Studies)",
+      "id": "1828/152",
+      "parent_id": "1828/151"
+    },
+    {
+      "name": "Department of Pacific and Asian Studies",
+      "id": "1828/153",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (Pacific and Asian Studies)",
+      "id": "1828/154",
+      "parent_id": "1828/153"
+    },
+    {
+      "name": "Department of Philosophy",
+      "id": "1828/155",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (Philosophy)",
+      "id": "1828/156",
+      "parent_id": "1828/155"
+    },
+    {
+      "name": "Department of Linguistics",
+      "id": "1828/90",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (Linguistics)",
+      "id": "1828/91",
+      "parent_id": "1828/90"
+    },
+    {
+      "name": "Department of History",
+      "id": "1828/78",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (History)",
+      "id": "1828/79",
+      "parent_id": "1828/78"
+    },
+    {
+      "name": "Department of French",
+      "id": "1828/106",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (French)",
+      "id": "1828/107",
+      "parent_id": "1828/106"
+    },
+    {
+      "name": "Department of Gender Studies",
+      "id": "1828/157",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Theses (Gender Studies)",
+      "id": "1828/158",
+      "parent_id": "1828/157"
+    },
+    {
+      "name": "Faculty Publications (Humanities)",
+      "id": "1828/4613",
+      "parent_id": "1828/77"
+    },
+    {
+      "name": "Faculty of Law",
+      "id": "1828/118",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Indigenous Law Research Unit (ILRU)",
+      "id": "1828/8767",
+      "parent_id": "1828/118"
+    },
+    {
+      "name": "Indigenous Law Research Unit (ILRU) Publications",
+      "id": "1828/8899",
+      "parent_id": "1828/8767"
+    },
+    {
+      "name": "UVic Graduate Student Law & Society Research Group",
+      "id": "1828/12168",
+      "parent_id": "1828/118"
+    },
+    {
+      "name": "UVic Graduate Student Law & Society Research Group Publications",
+      "id": "1828/12366",
+      "parent_id": "1828/12168"
+    },
+    {
+      "name": "Faculty Publications (Law)",
+      "id": "1828/9037",
+      "parent_id": "1828/118"
+    },
+    {
+      "name": "Theses (Law)",
+      "id": "1828/119",
+      "parent_id": "1828/118"
+    },
+    {
+      "name": "Faculty of Science",
+      "id": "1828/64",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Department of Chemistry",
+      "id": "1828/135",
+      "parent_id": "1828/64"
+    },
+    {
+      "name": "Theses (Chemistry)",
+      "id": "1828/136",
+      "parent_id": "1828/135"
+    },
+    {
+      "name": "Department of Biology",
+      "id": "1828/65",
+      "parent_id": "1828/64"
+    },
+    {
+      "name": "Theses (Biology)",
+      "id": "1828/66",
+      "parent_id": "1828/65"
+    },
+    {
+      "name": "Undergraduate Honours Theses (Biology)",
+      "id": "1828/7998",
+      "parent_id": "1828/65"
+    },
+    {
+      "name": "Department of Biochemistry and Microbiology",
+      "id": "1828/92",
+      "parent_id": "1828/64"
+    },
+    {
+      "name": "Theses (Biochemistry and Microbiology)",
+      "id": "1828/93",
+      "parent_id": "1828/92"
+    },
+    {
+      "name": "Department of Physics and Astronomy",
+      "id": "1828/94",
+      "parent_id": "1828/64"
+    },
+    {
+      "name": "Theses (Physics and Astronomy)",
+      "id": "1828/95",
+      "parent_id": "1828/94"
+    },
+    {
+      "name": "Department of Mathematics and Statistics",
+      "id": "1828/132",
+      "parent_id": "1828/64"
+    },
+    {
+      "name": "Technical Reports (Mathematics and Statistics)",
+      "id": "1828/9040",
+      "parent_id": "1828/132"
+    },
+    {
+      "name": "Theses (Mathematics and Statistics)",
+      "id": "1828/134",
+      "parent_id": "1828/132"
+    },
+    {
+      "name": "School of Earth and Ocean Sciences",
+      "id": "1828/104",
+      "parent_id": "1828/64"
+    },
+    {
+      "name": "Theses (Earth and Ocean Sciences)",
+      "id": "1828/105",
+      "parent_id": "1828/104"
+    },
+    {
+      "name": "Faculty Publications (BioMed Central & Faculty of Science)",
+      "id": "1828/3076",
+      "parent_id": "1828/64"
+    },
+    {
+      "name": "Faculty of Social Sciences",
+      "id": "1828/16",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Department of Economics",
+      "id": "1828/140",
+      "parent_id": "1828/16"
+    },
+    {
+      "name": "Theses (Economics)",
+      "id": "1828/141",
+      "parent_id": "1828/140"
+    },
+    {
+      "name": "Department of Political Science",
+      "id": "1828/143",
+      "parent_id": "1828/16"
+    },
+    {
+      "name": "Theses (Political Science)",
+      "id": "1828/144",
+      "parent_id": "1828/143"
+    },
+    {
+      "name": "Department of Geography",
+      "id": "1828/100",
+      "parent_id": "1828/16"
+    },
+    {
+      "name": "Theses (Geography)",
+      "id": "1828/101",
+      "parent_id": "1828/100"
+    },
+    {
+      "name": "Department of Sociology",
+      "id": "1828/17",
+      "parent_id": "1828/16"
+    },
+    {
+      "name": "Theses (Sociology)",
+      "id": "1828/18",
+      "parent_id": "1828/17"
+    },
+    {
+      "name": "School of Environmental Studies",
+      "id": "1828/59",
+      "parent_id": "1828/16"
+    },
+    {
+      "name": "Theses (Environmental Studies)",
+      "id": "1828/60",
+      "parent_id": "1828/59"
+    },
+    {
+      "name": "Department of Psychology",
+      "id": "1828/121",
+      "parent_id": "1828/16"
+    },
+    {
+      "name": "Theses (Psychology)",
+      "id": "1828/122",
+      "parent_id": "1828/121"
+    },
+    {
+      "name": "Department of Anthropology",
+      "id": "1828/125",
+      "parent_id": "1828/16"
+    },
+    {
+      "name": "Theses (Anthropology)",
+      "id": "1828/137",
+      "parent_id": "1828/125"
+    },
+    {
+      "name": "Undergraduate Honours Papers (Anthropology)",
+      "id": "1828/5020",
+      "parent_id": "1828/125"
+    },
+    {
+      "name": "Pacific Centre for Technology and Culture (PACTAC)",
+      "id": "1828/6168",
+      "parent_id": "1828/16"
+    },
+    {
+      "name": "CTheory Books",
+      "id": "1828/6169",
+      "parent_id": "1828/6168"
+    },
+    {
+      "name": "PACTAC Videos",
+      "id": "1828/6170",
+      "parent_id": "1828/6168"
+    },
+    {
+      "name": "Faculty Publications (Social Sciences)",
+      "id": "1828/4607",
+      "parent_id": "1828/16"
+    },
+    {
+      "name": "Gustavson School of Business",
+      "id": "1828/138",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Faculty Publications (Business)",
+      "id": "1828/9036",
+      "parent_id": "1828/138"
+    },
+    {
+      "name": "Theses (Business Administration)",
+      "id": "1828/139",
+      "parent_id": "1828/138"
+    },
+    {
+      "name": "Implementing New Knowledge Environments Publications (INKE)",
+      "id": "1828/7627",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Articles",
+      "id": "1828/7628",
+      "parent_id": "1828/7627"
+    },
+    {
+      "name": "Institute for Dispute Resolution",
+      "id": "1828/2394",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Iraq Maps",
+      "id": "1828/2395",
+      "parent_id": "1828/2394"
+    },
+    {
+      "name": "Institute for Integrated Energy Systems (IESVic)",
+      "id": "1828/1330",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Theses (IESVic)",
+      "id": "1828/1331",
+      "parent_id": "1828/1330"
+    },
+    {
+      "name": "Institute for Studies and Innovation in Community University Engagement",
+      "id": "1828/947",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Publications (ISICUE)",
+      "id": "1828/948",
+      "parent_id": "1828/947"
+    },
+    {
+      "name": "Conferences (ISICUE)",
+      "id": "1828/1811",
+      "parent_id": "1828/947"
+    },
+    {
+      "name": "First Nations (ISICUE)",
+      "id": "1828/1812",
+      "parent_id": "1828/947"
+    },
+    {
+      "name": "Homelessness (ISICUE)",
+      "id": "1828/1813",
+      "parent_id": "1828/947"
+    },
+    {
+      "name": "Food Security (ISICUE)",
+      "id": "1828/1814",
+      "parent_id": "1828/947"
+    },
+    {
+      "name": "Learning and Teaching Support and Innovation",
+      "id": "1828/5899",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Jamie Cassels Undergraduate Research Awards (JCURA) Poster Collection",
+      "id": "1828/5900",
+      "parent_id": "1828/5899"
+    },
+    {
+      "name": "Map of Early Modern London (MoEML)",
+      "id": "1828/10927",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Books",
+      "id": "1828/10928",
+      "parent_id": "1828/10927"
+    },
+    {
+      "name": "Research Partnerships",
+      "id": "1828/12562",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Research Snapshots",
+      "id": "1828/12563",
+      "parent_id": "1828/12562"
+    },
+    {
+      "name": "Resources",
+      "id": "1828/13853",
+      "parent_id": "1828/12562"
+    },
+    {
+      "name": "Technology Integration and Evaluation (TIE) Research Lab",
+      "id": "1828/12777",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Educational Technology",
+      "id": "1828/12778",
+      "parent_id": "1828/12777"
+    },
+    {
+      "name": "Faculty Publications (Educational Technology)",
+      "id": "1828/12779",
+      "parent_id": "1828/12778"
+    },
+    {
+      "name": "Dissertations (Educational Technology)",
+      "id": "1828/12780",
+      "parent_id": "1828/12778"
+    },
+    {
+      "name": "Masters thesis (Educational Technology)",
+      "id": "1828/12781",
+      "parent_id": "1828/12778"
+    },
+    {
+      "name": "MEd Projects (Educational Technology)",
+      "id": "1828/12782",
+      "parent_id": "1828/12778"
+    },
+    {
+      "name": "Undergraduate Publications (Educational Technology)",
+      "id": "1828/12783",
+      "parent_id": "1828/12778"
+    },
+    {
+      "name": "UNESCO Chair on Community Based Research and Social Responsibility in Higher Education",
+      "id": "1828/5949",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Resources UNESCO Chair CBR-SR",
+      "id": "1828/6017",
+      "parent_id": "1828/5949"
+    },
+    {
+      "name": "Policy and Advocacy (UNESCO Chair CBR-SR)",
+      "id": "1828/6019",
+      "parent_id": "1828/6017"
+    },
+    {
+      "name": "Resources (UNESCO Chair CBR-SR)",
+      "id": "1828/6228",
+      "parent_id": "1828/6017"
+    },
+    {
+      "name": "The NextGen Project : Building the Next Generation of Community Based Researchers",
+      "id": "1828/5950",
+      "parent_id": "1828/5949"
+    },
+    {
+      "name": "Thematic Review on CBR in Water Governance",
+      "id": "1828/5954",
+      "parent_id": "1828/5950"
+    },
+    {
+      "name": "Global Survey (NextGen Project)",
+      "id": "1828/6077",
+      "parent_id": "1828/5950"
+    },
+    {
+      "name": "Thematic Review on CBR in Asset-Based Development",
+      "id": "1828/6078",
+      "parent_id": "1828/5950"
+    },
+    {
+      "name": "Thematic Review on CBR in Participatory Citizenship",
+      "id": "1828/6079",
+      "parent_id": "1828/5950"
+    },
+    {
+      "name": "Thematic Review on CBR in Indigenous Research Methodologies",
+      "id": "1828/6080",
+      "parent_id": "1828/5950"
+    },
+    {
+      "name": "Institutional Case Studies (NextGen Project)",
+      "id": "1828/6081",
+      "parent_id": "1828/5950"
+    },
+    {
+      "name": "Publications (NextGen Project)",
+      "id": "1828/6082",
+      "parent_id": "1828/5950"
+    },
+    {
+      "name": "Resources (NextGen Project)",
+      "id": "1828/6083",
+      "parent_id": "1828/5950"
+    },
+    {
+      "name": "Project : Strengthening Community University Research Partnerships",
+      "id": "1828/5951",
+      "parent_id": "1828/5949"
+    },
+    {
+      "name": "Global Survey (SCURP)",
+      "id": "1828/6021",
+      "parent_id": "1828/5951"
+    },
+    {
+      "name": "Publications (SCURP)",
+      "id": "1828/6022",
+      "parent_id": "1828/5951"
+    },
+    {
+      "name": "Resources (SCURP)",
+      "id": "1828/6023",
+      "parent_id": "1828/5951"
+    },
+    {
+      "name": "UVic Archives",
+      "id": "1828/3231",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Transgender Archives: Virginia Prince",
+      "id": "1828/4513",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "Transgender Archives: University of Ulster TGA collection",
+      "id": "1828/4646",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "Transgender Archives: Rikki Swin Institute",
+      "id": "1828/4297",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "Transgender Archives: Reed Erikson",
+      "id": "1828/4296",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "Transgender Archives: Barbara Findlay, Q.C. / Kimberly Nixon",
+      "id": "1828/4305",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "Transgender Archives",
+      "id": "1828/4299",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "UVic Convocation",
+      "id": "1828/4676",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "British Columbia parks video histories",
+      "id": "1828/3232",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "Environmental Sciences",
+      "id": "1828/3580",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "Chinese Consolidated Benevolent Association",
+      "id": "1828/3740",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "Women's Studies",
+      "id": "1828/3700",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "Artists' Archives",
+      "id": "1828/3708",
+      "parent_id": "1828/3231"
+    },
+    {
+      "name": "UVic Lectures",
+      "id": "1828/3196",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Library Lectures",
+      "id": "1828/3199",
+      "parent_id": "1828/3196"
+    },
+    {
+      "name": "Old Books in New Libraries",
+      "id": "1828/3200",
+      "parent_id": "1828/3199"
+    },
+    {
+      "name": "Public Lectures",
+      "id": "1828/8087",
+      "parent_id": "1828/3196"
+    },
+    {
+      "name": "Lansdowne Lectures",
+      "id": "1828/3197",
+      "parent_id": "1828/3196"
+    },
+    {
+      "name": "Provost's Diversity Research Forum",
+      "id": "1828/3370",
+      "parent_id": "1828/3196"
+    },
+    {
+      "name": "Technologies of the Future (TS 400)",
+      "id": "1828/4451",
+      "parent_id": "1828/3196"
+    },
+    {
+      "name": "Distinguished Women Scholars Lectures",
+      "id": "1828/8104",
+      "parent_id": "1828/3196"
+    },
+    {
+      "name": "UVic Libraries",
+      "id": "1828/6",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "UVic Libraries Student Scholarships",
+      "id": "1828/6779",
+      "parent_id": "1828/6"
+    },
+    {
+      "name": "William Petrie Graduate Student Library Scholarship",
+      "id": "1828/6781",
+      "parent_id": "1828/6779"
+    },
+    {
+      "name": "David Harris Flaherty Undergraduate Library Scholarship",
+      "id": "1828/6780",
+      "parent_id": "1828/6779"
+    },
+    {
+      "name": "Gladys Nipp and Stephen Mah Family Award",
+      "id": "1828/13564",
+      "parent_id": "1828/6779"
+    },
+    {
+      "name": "Library Lectures",
+      "id": "1828/3645",
+      "parent_id": "1828/6"
+    },
+    {
+      "name": "Library Publications",
+      "id": "1828/9",
+      "parent_id": "1828/6"
+    },
+    {
+      "name": "BC Research Libraries Group Lecture Series",
+      "id": "1828/2547",
+      "parent_id": "1828/6"
+    },
+    {
+      "name": "Wyndham Lewis and Modernism",
+      "id": "1828/1466",
+      "parent_id": "1828/6"
+    },
+    {
+      "name": "Library Podcasts",
+      "id": "1828/11311",
+      "parent_id": "1828/6"
+    },
+    {
+      "name": "On the Verge Writing Contest",
+      "id": "1828/13468",
+      "parent_id": "1828/6"
+    },
+    {
+      "name": "The Ampersand",
+      "id": "1828/13469",
+      "parent_id": "1828/6"
+    },
+    {
+      "name": "UVic Libraries ePublishing Services",
+      "id": "1828/3853",
+      "parent_id": "1828/0"
+    },
+    {
+      "name": "Books (UVic Publications)",
+      "id": "1828/3857",
+      "parent_id": "1828/3853"
+    },
+    {
+      "name": "New Rochdale Press",
+      "id": "1828/3858",
+      "parent_id": "1828/3857"
+    },
+    {
+      "name": "University of Victoria",
+      "id": "1828/3859",
+      "parent_id": "1828/3857"
+    }
+  ]
+}
