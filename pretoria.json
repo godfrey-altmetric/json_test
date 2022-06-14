@@ -1,0 +1,5882 @@
+{
+  "limit": 1175,
+  "start": 0,
+  "total": 1175,
+  "hits": [
+    {
+      "name": "UPSpace",
+      "id": "2263/0",
+      "parent_id": null
+    },
+    {
+      "name": "Economic and Management Sciences",
+      "id": "com_2263_1682",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Accounting",
+      "id": "com_2263_2659",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Accounting",
+      "id": "col_2263_2659",
+      "parent_id": "com_2263_2659"
+    },
+    {
+      "name": "Accounting",
+      "id": "col_2263_2659",
+      "parent_id": "com_2263_2659"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "com_2263_59589",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "African Journal of Public Affairs (New)",
+      "id": "col_2263_59589",
+      "parent_id": "com_2263_59589"
+    },
+    {
+      "name": "Auditing",
+      "id": "com_2263_2878",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Auditing",
+      "id": "col_2263_2878",
+      "parent_id": "com_2263_2878"
+    },
+    {
+      "name": "Auditing",
+      "id": "col_2263_2878",
+      "parent_id": "com_2263_2878"
+    },
+    {
+      "name": "Auditing",
+      "id": "col_2263_2878",
+      "parent_id": "com_2263_2878"
+    },
+    {
+      "name": "Business Management",
+      "id": "com_2263_2507",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Business Management",
+      "id": "col_2263_2507",
+      "parent_id": "com_2263_2507"
+    },
+    {
+      "name": "Business Management",
+      "id": "col_2263_2507",
+      "parent_id": "com_2263_2507"
+    },
+    {
+      "name": "Business Management",
+      "id": "col_2263_2507",
+      "parent_id": "com_2263_2507"
+    },
+    {
+      "name": "Communication Management",
+      "id": "com_2263_32304",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Communication Management",
+      "id": "col_2263_32304",
+      "parent_id": "com_2263_32304"
+    },
+    {
+      "name": "Communication Management",
+      "id": "col_2263_32304",
+      "parent_id": "com_2263_32304"
+    },
+    {
+      "name": "Economics",
+      "id": "com_2263_2390",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Economics",
+      "id": "col_2263_2390",
+      "parent_id": "com_2263_2390"
+    },
+    {
+      "name": "Economics",
+      "id": "col_2263_2390",
+      "parent_id": "com_2263_2390"
+    },
+    {
+      "name": "Economics",
+      "id": "col_2263_2390",
+      "parent_id": "com_2263_2390"
+    },
+    {
+      "name": "Economics",
+      "id": "col_2263_2390",
+      "parent_id": "com_2263_2390"
+    },
+    {
+      "name": "Financial Management",
+      "id": "com_2263_2225",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Financial Management",
+      "id": "col_2263_2225",
+      "parent_id": "com_2263_2225"
+    },
+    {
+      "name": "Financial Management",
+      "id": "col_2263_2225",
+      "parent_id": "com_2263_2225"
+    },
+    {
+      "name": "Financial Management",
+      "id": "col_2263_2225",
+      "parent_id": "com_2263_2225"
+    },
+    {
+      "name": "Graduate School of Management",
+      "id": "com_2263_2594",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Graduate School of Management",
+      "id": "col_2263_2594",
+      "parent_id": "com_2263_2594"
+    },
+    {
+      "name": "Graduate School of Management",
+      "id": "col_2263_2594",
+      "parent_id": "com_2263_2594"
+    },
+    {
+      "name": "Human Resource Management",
+      "id": "com_2263_2509",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Human Resource Management",
+      "id": "col_2263_2509",
+      "parent_id": "com_2263_2509"
+    },
+    {
+      "name": "Human Resource Management",
+      "id": "col_2263_2509",
+      "parent_id": "com_2263_2509"
+    },
+    {
+      "name": "Marketing Management",
+      "id": "com_2263_32309",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Marketing Management",
+      "id": "col_2263_32309",
+      "parent_id": "com_2263_32309"
+    },
+    {
+      "name": "Marketing Management",
+      "id": "col_2263_32309",
+      "parent_id": "com_2263_32309"
+    },
+    {
+      "name": "Marketing Management",
+      "id": "col_2263_32309",
+      "parent_id": "com_2263_32309"
+    },
+    {
+      "name": "School of Public Management and Administration (SPMA)",
+      "id": "com_2263_2505",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "School of Public Management and Administration (SPMA)",
+      "id": "col_2263_2505",
+      "parent_id": "com_2263_2505"
+    },
+    {
+      "name": "School of Public Management and Administration (SPMA)",
+      "id": "col_2263_2505",
+      "parent_id": "com_2263_2505"
+    },
+    {
+      "name": "School of Public Management and Administration (SPMA)",
+      "id": "col_2263_2505",
+      "parent_id": "com_2263_2505"
+    },
+    {
+      "name": "Taxation",
+      "id": "com_2263_14462",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Taxation",
+      "id": "col_2263_14462",
+      "parent_id": "com_2263_14462"
+    },
+    {
+      "name": "Taxation",
+      "id": "col_2263_14462",
+      "parent_id": "com_2263_14462"
+    },
+    {
+      "name": "Tourism Management",
+      "id": "com_2263_1683",
+      "parent_id": "com_2263_1682"
+    },
+    {
+      "name": "Tourism Management",
+      "id": "col_2263_1683",
+      "parent_id": "com_2263_1683"
+    },
+    {
+      "name": "Tourism Management",
+      "id": "col_2263_1683",
+      "parent_id": "com_2263_1683"
+    },
+    {
+      "name": "Education",
+      "id": "com_2263_63",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Arts, Languages and Human Movement Studies Education",
+      "id": "com_2263_1760",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Arts, Languages and Human Movement Studies Education",
+      "id": "col_2263_1760",
+      "parent_id": "com_2263_1760"
+    },
+    {
+      "name": "Arts, Languages and Human Movement Studies Education",
+      "id": "col_2263_1760",
+      "parent_id": "com_2263_1760"
+    },
+    {
+      "name": "Centre for Evaluation & Assessment (CEA)",
+      "id": "com_2263_65219",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Centre for Evaluation & Assessment (CEA)",
+      "id": "col_2263_65219",
+      "parent_id": "com_2263_65219"
+    },
+    {
+      "name": "Centre for Evaluation & Assessment (CEA)",
+      "id": "col_2263_65219",
+      "parent_id": "com_2263_65219"
+    },
+    {
+      "name": "Curriculum Studies",
+      "id": "com_2263_1686",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Curriculum Studies",
+      "id": "col_2263_1686",
+      "parent_id": "com_2263_1686"
+    },
+    {
+      "name": "Curriculum Studies",
+      "id": "col_2263_1686",
+      "parent_id": "com_2263_1686"
+    },
+    {
+      "name": "Early Childhood Education",
+      "id": "com_2263_1688",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Early Childhood Education",
+      "id": "col_2263_1688",
+      "parent_id": "com_2263_1688"
+    },
+    {
+      "name": "Early Childhood Education",
+      "id": "col_2263_1688",
+      "parent_id": "com_2263_1688"
+    },
+    {
+      "name": "Education Community Engagement",
+      "id": "com_2263_16219",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Education Community Engagement",
+      "id": "col_2263_16219",
+      "parent_id": "com_2263_16219"
+    },
+    {
+      "name": "Education Management and Policy Studies",
+      "id": "com_2263_107",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "UP Experts (Jonathan Jansen Collection)",
+      "id": "com_2263_108",
+      "parent_id": "com_2263_107"
+    },
+    {
+      "name": "UP Experts (Jonathan Jansen Collection)",
+      "id": "col_2263_108",
+      "parent_id": "com_2263_108"
+    },
+    {
+      "name": "UP Experts (Jonathan Jansen Collection)",
+      "id": "col_2263_108",
+      "parent_id": "com_2263_108"
+    },
+    {
+      "name": "Education Management and Policy Studies",
+      "id": "col_2263_107",
+      "parent_id": "com_2263_107"
+    },
+    {
+      "name": "Education Management and Policy Studies",
+      "id": "col_2263_107",
+      "parent_id": "com_2263_107"
+    },
+    {
+      "name": "Education Management and Policy Studies",
+      "id": "col_2263_107",
+      "parent_id": "com_2263_107"
+    },
+    {
+      "name": "Educational Psychology",
+      "id": "com_2263_1758",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Educational Psychology",
+      "id": "col_2263_1758",
+      "parent_id": "com_2263_1758"
+    },
+    {
+      "name": "Educational Psychology",
+      "id": "col_2263_1758",
+      "parent_id": "com_2263_1758"
+    },
+    {
+      "name": "Humanities Education",
+      "id": "com_2263_7479",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Journal of Geography Education in Africa (JoGEA)",
+      "id": "com_2263_80315",
+      "parent_id": "com_2263_7479"
+    },
+    {
+      "name": "Journal of Geography Education in Africa (JoGEA)",
+      "id": "col_2263_80315",
+      "parent_id": "com_2263_80315"
+    },
+    {
+      "name": "Journal of Geography Education in Africa (JoGEA)",
+      "id": "col_2263_80315",
+      "parent_id": "com_2263_80315"
+    },
+    {
+      "name": "Journal of Geography Education in Africa (JoGEA)",
+      "id": "col_2263_80315",
+      "parent_id": "com_2263_80315"
+    },
+    {
+      "name": "Yesterday and Today Journal For History Education In South Africa and Abroad",
+      "id": "com_2263_80345",
+      "parent_id": "com_2263_7479"
+    },
+    {
+      "name": "Yesterday and Today Journal For History Education In South Africa and Abroad",
+      "id": "col_2263_80345",
+      "parent_id": "com_2263_80345"
+    },
+    {
+      "name": "Yesterday and Today Journal For History Education In South Africa and Abroad",
+      "id": "col_2263_80345",
+      "parent_id": "com_2263_80345"
+    },
+    {
+      "name": "Yesterday and Today Journal For History Education In South Africa and Abroad",
+      "id": "col_2263_80345",
+      "parent_id": "com_2263_80345"
+    },
+    {
+      "name": "Yesterday and Today Journal For History Education In South Africa and Abroad",
+      "id": "col_2263_80345",
+      "parent_id": "com_2263_80345"
+    },
+    {
+      "name": "Yesterday and Today Journal For History Education In South Africa and Abroad",
+      "id": "col_2263_80345",
+      "parent_id": "com_2263_80345"
+    },
+    {
+      "name": "Yesterday and Today Journal For History Education In South Africa and Abroad",
+      "id": "col_2263_80345",
+      "parent_id": "com_2263_80345"
+    },
+    {
+      "name": "Yesterday and Today Journal For History Education In South Africa and Abroad",
+      "id": "col_2263_80345",
+      "parent_id": "com_2263_80345"
+    },
+    {
+      "name": "Yesterday and Today Journal For History Education In South Africa and Abroad",
+      "id": "col_2263_80345",
+      "parent_id": "com_2263_80345"
+    },
+    {
+      "name": "Humanities Education",
+      "id": "col_2263_7479",
+      "parent_id": "com_2263_7479"
+    },
+    {
+      "name": "Humanities Education",
+      "id": "col_2263_7479",
+      "parent_id": "com_2263_7479"
+    },
+    {
+      "name": "Science, Mathematics and Technology Education",
+      "id": "com_2263_1749",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Science, Mathematics and Technology Education",
+      "id": "col_2263_1749",
+      "parent_id": "com_2263_1749"
+    },
+    {
+      "name": "Science, Mathematics and Technology Education",
+      "id": "col_2263_1749",
+      "parent_id": "com_2263_1749"
+    },
+    {
+      "name": "Science, Mathematics and Technology Education",
+      "id": "col_2263_1749",
+      "parent_id": "com_2263_1749"
+    },
+    {
+      "name": "Social Studies Education",
+      "id": "com_2263_1762",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Social Studies Education",
+      "id": "col_2263_1762",
+      "parent_id": "com_2263_1762"
+    },
+    {
+      "name": "Social Studies Education",
+      "id": "col_2263_1762",
+      "parent_id": "com_2263_1762"
+    },
+    {
+      "name": "Unit for Distance Education",
+      "id": "com_2263_1773",
+      "parent_id": "com_2263_63"
+    },
+    {
+      "name": "Distance Education and Teachers’ Training in Africa (DETA)",
+      "id": "com_2263_79887",
+      "parent_id": "com_2263_1773"
+    },
+    {
+      "name": "Distance Education and Teachers’ Training in Africa (DETA)",
+      "id": "col_2263_79887",
+      "parent_id": "com_2263_79887"
+    },
+    {
+      "name": "Distance Education and Teachers’ Training in Africa (DETA)",
+      "id": "col_2263_79887",
+      "parent_id": "com_2263_79887"
+    },
+    {
+      "name": "Distance Education and Teachers’ Training in Africa (DETA)",
+      "id": "col_2263_79887",
+      "parent_id": "com_2263_79887"
+    },
+    {
+      "name": "Distance Education and Teachers’ Training in Africa (DETA)",
+      "id": "col_2263_79887",
+      "parent_id": "com_2263_79887"
+    },
+    {
+      "name": "Teacher Education through Flexible Learning in Africa and other Developing Contexts (TETFLE)",
+      "id": "com_2263_79884",
+      "parent_id": "com_2263_1773"
+    },
+    {
+      "name": "Teacher Education through Flexible Learning in Africa and other Developing Contexts (TETFLE)",
+      "id": "col_2263_79884",
+      "parent_id": "com_2263_79884"
+    },
+    {
+      "name": "Teacher Education through Flexible Learning in Africa and other Developing Contexts (TETFLE)",
+      "id": "col_2263_79884",
+      "parent_id": "com_2263_79884"
+    },
+    {
+      "name": "Unit for Distance Education",
+      "id": "col_2263_1773",
+      "parent_id": "com_2263_1773"
+    },
+    {
+      "name": "Education Innovation",
+      "id": "com_2263_1933",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Education Innovation",
+      "id": "col_2263_1933",
+      "parent_id": "com_2263_1933"
+    },
+    {
+      "name": "Education Innovation",
+      "id": "col_2263_1933",
+      "parent_id": "com_2263_1933"
+    },
+    {
+      "name": "Education Innovation",
+      "id": "col_2263_1933",
+      "parent_id": "com_2263_1933"
+    },
+    {
+      "name": "Education Innovation",
+      "id": "col_2263_1933",
+      "parent_id": "com_2263_1933"
+    },
+    {
+      "name": "Education Innovation",
+      "id": "col_2263_1933",
+      "parent_id": "com_2263_1933"
+    },
+    {
+      "name": "Engineering, Built Environment and Information Technology",
+      "id": "com_2263_71",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Architecture",
+      "id": "com_2263_72",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "com_2263_2401",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Archive (Architecture)",
+      "id": "col_2263_2401",
+      "parent_id": "com_2263_2401"
+    },
+    {
+      "name": "Journals (Public Works of South Africa)",
+      "id": "com_2263_49080",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Journals (Public Works of South Africa)",
+      "id": "col_2263_49080",
+      "parent_id": "com_2263_49080"
+    },
+    {
+      "name": "Journals (Restorica)",
+      "id": "com_2263_46315",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Journals (Restorica)",
+      "id": "col_2263_46315",
+      "parent_id": "com_2263_46315"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "com_2263_10058",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Journals (South African Journal of Art History (SAJAH))",
+      "id": "col_2263_10058",
+      "parent_id": "com_2263_10058"
+    },
+    {
+      "name": "Student Projects (Architecture)",
+      "id": "com_2263_734",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Student Projects (Architecture)",
+      "id": "col_2263_734",
+      "parent_id": "com_2263_734"
+    },
+    {
+      "name": "Student Projects (Architecture)",
+      "id": "col_2263_734",
+      "parent_id": "com_2263_734"
+    },
+    {
+      "name": "Student Projects (Architecture)",
+      "id": "col_2263_734",
+      "parent_id": "com_2263_734"
+    },
+    {
+      "name": "Architecture",
+      "id": "col_2263_72",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Architecture",
+      "id": "col_2263_72",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Architecture",
+      "id": "col_2263_72",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Architecture",
+      "id": "col_2263_72",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Architecture",
+      "id": "col_2263_72",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Architecture",
+      "id": "col_2263_72",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Architecture",
+      "id": "col_2263_72",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Architecture",
+      "id": "col_2263_72",
+      "parent_id": "com_2263_72"
+    },
+    {
+      "name": "Chemical Engineering",
+      "id": "com_2263_1690",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Chemical Engineering",
+      "id": "col_2263_1690",
+      "parent_id": "com_2263_1690"
+    },
+    {
+      "name": "Chemical Engineering",
+      "id": "col_2263_1690",
+      "parent_id": "com_2263_1690"
+    },
+    {
+      "name": "Chemical Engineering",
+      "id": "col_2263_1690",
+      "parent_id": "com_2263_1690"
+    },
+    {
+      "name": "Civil Engineering",
+      "id": "com_2263_1700",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "com_2263_5201",
+      "parent_id": "com_2263_1700"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Conferences (Southern African Transport Conferences)",
+      "id": "col_2263_5201",
+      "parent_id": "com_2263_5201"
+    },
+    {
+      "name": "Civil Engineering",
+      "id": "col_2263_1700",
+      "parent_id": "com_2263_1700"
+    },
+    {
+      "name": "Civil Engineering",
+      "id": "col_2263_1700",
+      "parent_id": "com_2263_1700"
+    },
+    {
+      "name": "Civil Engineering",
+      "id": "col_2263_1700",
+      "parent_id": "com_2263_1700"
+    },
+    {
+      "name": "Civil Engineering",
+      "id": "col_2263_1700",
+      "parent_id": "com_2263_1700"
+    },
+    {
+      "name": "Civil Engineering",
+      "id": "col_2263_1700",
+      "parent_id": "com_2263_1700"
+    },
+    {
+      "name": "Computer Science",
+      "id": "com_2263_1694",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Computer Science",
+      "id": "col_2263_1694",
+      "parent_id": "com_2263_1694"
+    },
+    {
+      "name": "Computer Science",
+      "id": "col_2263_1694",
+      "parent_id": "com_2263_1694"
+    },
+    {
+      "name": "Computer Science",
+      "id": "col_2263_1694",
+      "parent_id": "com_2263_1694"
+    },
+    {
+      "name": "Computer Science",
+      "id": "col_2263_1694",
+      "parent_id": "com_2263_1694"
+    },
+    {
+      "name": "Computer Science",
+      "id": "col_2263_1694",
+      "parent_id": "com_2263_1694"
+    },
+    {
+      "name": "Computer Science",
+      "id": "col_2263_1694",
+      "parent_id": "com_2263_1694"
+    },
+    {
+      "name": "Computer Science",
+      "id": "col_2263_1694",
+      "parent_id": "com_2263_1694"
+    },
+    {
+      "name": "Computer Science",
+      "id": "col_2263_1694",
+      "parent_id": "com_2263_1694"
+    },
+    {
+      "name": "Construction Economics",
+      "id": "com_2263_1741",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Construction Economics",
+      "id": "col_2263_1741",
+      "parent_id": "com_2263_1741"
+    },
+    {
+      "name": "Construction Economics",
+      "id": "col_2263_1741",
+      "parent_id": "com_2263_1741"
+    },
+    {
+      "name": "Construction Economics",
+      "id": "col_2263_1741",
+      "parent_id": "com_2263_1741"
+    },
+    {
+      "name": "Construction Economics",
+      "id": "col_2263_1741",
+      "parent_id": "com_2263_1741"
+    },
+    {
+      "name": "Electrical, Electronic and Computer Engineering",
+      "id": "com_2263_1692",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Electrical, Electronic and Computer Engineering",
+      "id": "col_2263_1692",
+      "parent_id": "com_2263_1692"
+    },
+    {
+      "name": "Electrical, Electronic and Computer Engineering",
+      "id": "col_2263_1692",
+      "parent_id": "com_2263_1692"
+    },
+    {
+      "name": "Electrical, Electronic and Computer Engineering",
+      "id": "col_2263_1692",
+      "parent_id": "com_2263_1692"
+    },
+    {
+      "name": "Graduate School of Technology Management (GSTM)",
+      "id": "com_2263_1702",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Life Cycle Engineering",
+      "id": "com_2263_4002",
+      "parent_id": "com_2263_1702"
+    },
+    {
+      "name": "Life Cycle Engineering",
+      "id": "col_2263_4002",
+      "parent_id": "com_2263_4002"
+    },
+    {
+      "name": "Life Cycle Engineering",
+      "id": "col_2263_4002",
+      "parent_id": "com_2263_4002"
+    },
+    {
+      "name": "Life Cycle Engineering",
+      "id": "col_2263_4002",
+      "parent_id": "com_2263_4002"
+    },
+    {
+      "name": "Graduate School of Technology Management (GSTM)",
+      "id": "col_2263_1702",
+      "parent_id": "com_2263_1702"
+    },
+    {
+      "name": "Graduate School of Technology Management (GSTM)",
+      "id": "col_2263_1702",
+      "parent_id": "com_2263_1702"
+    },
+    {
+      "name": "Industrial and Systems Engineering",
+      "id": "com_2263_2373",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Industrial and Systems Engineering",
+      "id": "col_2263_2373",
+      "parent_id": "com_2263_2373"
+    },
+    {
+      "name": "Industrial and Systems Engineering",
+      "id": "col_2263_2373",
+      "parent_id": "com_2263_2373"
+    },
+    {
+      "name": "Industrial and Systems Engineering",
+      "id": "col_2263_2373",
+      "parent_id": "com_2263_2373"
+    },
+    {
+      "name": "Industrial and Systems Engineering",
+      "id": "col_2263_2373",
+      "parent_id": "com_2263_2373"
+    },
+    {
+      "name": "Industrial and Systems Engineering",
+      "id": "col_2263_2373",
+      "parent_id": "com_2263_2373"
+    },
+    {
+      "name": "Informatics",
+      "id": "com_2263_1696",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Informatics",
+      "id": "col_2263_1696",
+      "parent_id": "com_2263_1696"
+    },
+    {
+      "name": "Informatics",
+      "id": "col_2263_1696",
+      "parent_id": "com_2263_1696"
+    },
+    {
+      "name": "Informatics",
+      "id": "col_2263_1696",
+      "parent_id": "com_2263_1696"
+    },
+    {
+      "name": "Information Science",
+      "id": "com_2263_975",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Information Science",
+      "id": "col_2263_975",
+      "parent_id": "com_2263_975"
+    },
+    {
+      "name": "Information Science",
+      "id": "col_2263_975",
+      "parent_id": "com_2263_975"
+    },
+    {
+      "name": "Information Science",
+      "id": "col_2263_975",
+      "parent_id": "com_2263_975"
+    },
+    {
+      "name": "Information Science",
+      "id": "col_2263_975",
+      "parent_id": "com_2263_975"
+    },
+    {
+      "name": "Information Science",
+      "id": "col_2263_975",
+      "parent_id": "com_2263_975"
+    },
+    {
+      "name": "Institute for Technological Innovation (ITI)",
+      "id": "com_2263_3208",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Institute for Technological Innovation (ITI)",
+      "id": "col_2263_3208",
+      "parent_id": "com_2263_3208"
+    },
+    {
+      "name": "Institute for Technological Innovation (ITI)",
+      "id": "col_2263_3208",
+      "parent_id": "com_2263_3208"
+    },
+    {
+      "name": "Materials Science and Metallurgical Engineering",
+      "id": "com_2263_1698",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Materials Science and Metallurgical Engineering",
+      "id": "col_2263_1698",
+      "parent_id": "com_2263_1698"
+    },
+    {
+      "name": "Materials Science and Metallurgical Engineering",
+      "id": "col_2263_1698",
+      "parent_id": "com_2263_1698"
+    },
+    {
+      "name": "Materials Science and Metallurgical Engineering",
+      "id": "col_2263_1698",
+      "parent_id": "com_2263_1698"
+    },
+    {
+      "name": "Mechanical and Aeronautical Engineering",
+      "id": "com_2263_1704",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "com_2263_33201",
+      "parent_id": "com_2263_1704"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (International Conference on Heat Transfer, Fluid Mechanics and Thermodynamics)",
+      "id": "col_2263_33201",
+      "parent_id": "com_2263_33201"
+    },
+    {
+      "name": "Conferences (Southern African Solar Energy Conference (SASEC))",
+      "id": "com_2263_45309",
+      "parent_id": "com_2263_1704"
+    },
+    {
+      "name": "Conferences (Southern African Solar Energy Conference (SASEC))",
+      "id": "col_2263_45309",
+      "parent_id": "com_2263_45309"
+    },
+    {
+      "name": "Mechanical and Aeronautical Engineering",
+      "id": "col_2263_1704",
+      "parent_id": "com_2263_1704"
+    },
+    {
+      "name": "Mechanical and Aeronautical Engineering",
+      "id": "col_2263_1704",
+      "parent_id": "com_2263_1704"
+    },
+    {
+      "name": "Mechanical and Aeronautical Engineering",
+      "id": "col_2263_1704",
+      "parent_id": "com_2263_1704"
+    },
+    {
+      "name": "Mining Engineering",
+      "id": "com_2263_4984",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Mining Engineering",
+      "id": "col_2263_4984",
+      "parent_id": "com_2263_4984"
+    },
+    {
+      "name": "Mining Engineering",
+      "id": "col_2263_4984",
+      "parent_id": "com_2263_4984"
+    },
+    {
+      "name": "School of Engineering: Five Year Programme",
+      "id": "com_2263_5064",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "School of Engineering: Five Year Programme",
+      "id": "col_2263_5064",
+      "parent_id": "com_2263_5064"
+    },
+    {
+      "name": "Town and Regional Planning",
+      "id": "com_2263_6496",
+      "parent_id": "com_2263_71"
+    },
+    {
+      "name": "Town and Regional Planning",
+      "id": "col_2263_6496",
+      "parent_id": "com_2263_6496"
+    },
+    {
+      "name": "Town and Regional Planning",
+      "id": "col_2263_6496",
+      "parent_id": "com_2263_6496"
+    },
+    {
+      "name": "Town and Regional Planning",
+      "id": "col_2263_6496",
+      "parent_id": "com_2263_6496"
+    },
+    {
+      "name": "Entrepreneurship In Information",
+      "id": "com_2263_18293",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Entrepreneurship In Information",
+      "id": "col_2263_18293",
+      "parent_id": "com_2263_18293"
+    },
+    {
+      "name": "Gordon Institute of Business Science (GIBS)",
+      "id": "com_2263_51278",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Gordon Institute of Business Science (GIBS)",
+      "id": "col_2263_51278",
+      "parent_id": "com_2263_51278"
+    },
+    {
+      "name": "Gordon Institute of Business Science (GIBS)",
+      "id": "col_2263_51278",
+      "parent_id": "com_2263_51278"
+    },
+    {
+      "name": "Gordon Institute of Business Science (GIBS)",
+      "id": "col_2263_51278",
+      "parent_id": "com_2263_51278"
+    },
+    {
+      "name": "Health Sciences",
+      "id": "com_2263_1713",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Anaesthesiology",
+      "id": "com_2263_2414",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Anaesthesiology",
+      "id": "col_2263_2414",
+      "parent_id": "com_2263_2414"
+    },
+    {
+      "name": "Anaesthesiology",
+      "id": "col_2263_2414",
+      "parent_id": "com_2263_2414"
+    },
+    {
+      "name": "Anatomical Pathology ",
+      "id": "com_2263_2591",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Anatomical Pathology ",
+      "id": "col_2263_2591",
+      "parent_id": "com_2263_2591"
+    },
+    {
+      "name": "Anatomical Pathology ",
+      "id": "col_2263_2591",
+      "parent_id": "com_2263_2591"
+    },
+    {
+      "name": "Anatomy",
+      "id": "com_2263_1716",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Anatomy",
+      "id": "col_2263_1716",
+      "parent_id": "com_2263_1716"
+    },
+    {
+      "name": "Anatomy",
+      "id": "col_2263_1716",
+      "parent_id": "com_2263_1716"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "com_2263_77097",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Anatomy Study Resource: Specimen Repository",
+      "id": "col_2263_77097",
+      "parent_id": "com_2263_77097"
+    },
+    {
+      "name": "Cardiology",
+      "id": "com_2263_4958",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Cardiology",
+      "id": "col_2263_4958",
+      "parent_id": "com_2263_4958"
+    },
+    {
+      "name": "Cardiology",
+      "id": "col_2263_4958",
+      "parent_id": "com_2263_4958"
+    },
+    {
+      "name": "Chemical Pathology",
+      "id": "com_2263_2657",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Chemical Pathology",
+      "id": "col_2263_2657",
+      "parent_id": "com_2263_2657"
+    },
+    {
+      "name": "Chemical Pathology",
+      "id": "col_2263_2657",
+      "parent_id": "com_2263_2657"
+    },
+    {
+      "name": "Chemical Pathology",
+      "id": "col_2263_2657",
+      "parent_id": "com_2263_2657"
+    },
+    {
+      "name": "Clinical Epidemiology",
+      "id": "com_2263_2500",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Clinical Epidemiology",
+      "id": "col_2263_2500",
+      "parent_id": "com_2263_2500"
+    },
+    {
+      "name": "Clinical Epidemiology",
+      "id": "col_2263_2500",
+      "parent_id": "com_2263_2500"
+    },
+    {
+      "name": "Community Dentistry ",
+      "id": "com_2263_3456",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Community Dentistry ",
+      "id": "col_2263_3456",
+      "parent_id": "com_2263_3456"
+    },
+    {
+      "name": "Community Dentistry ",
+      "id": "col_2263_3456",
+      "parent_id": "com_2263_3456"
+    },
+    {
+      "name": "Community Dentistry ",
+      "id": "col_2263_3456",
+      "parent_id": "com_2263_3456"
+    },
+    {
+      "name": "Critical Care",
+      "id": "com_2263_82682",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Critical Care",
+      "id": "col_2263_82682",
+      "parent_id": "com_2263_82682"
+    },
+    {
+      "name": "Dental Management Sciences",
+      "id": "com_2263_6852",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Dental Management Sciences",
+      "id": "col_2263_6852",
+      "parent_id": "com_2263_6852"
+    },
+    {
+      "name": "Dental Management Sciences",
+      "id": "col_2263_6852",
+      "parent_id": "com_2263_6852"
+    },
+    {
+      "name": "Dermatology",
+      "id": "com_2263_2416",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Dermatology",
+      "id": "col_2263_2416",
+      "parent_id": "com_2263_2416"
+    },
+    {
+      "name": "Dermatology",
+      "id": "col_2263_2416",
+      "parent_id": "com_2263_2416"
+    },
+    {
+      "name": "Family Medicine",
+      "id": "com_2263_2819",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Family Medicine",
+      "id": "col_2263_2819",
+      "parent_id": "com_2263_2819"
+    },
+    {
+      "name": "Family Medicine",
+      "id": "col_2263_2819",
+      "parent_id": "com_2263_2819"
+    },
+    {
+      "name": "Family Medicine",
+      "id": "col_2263_2819",
+      "parent_id": "com_2263_2819"
+    },
+    {
+      "name": "Family Medicine",
+      "id": "col_2263_2819",
+      "parent_id": "com_2263_2819"
+    },
+    {
+      "name": "Forensic Medicine",
+      "id": "com_2263_2655",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Forensic Medicine",
+      "id": "col_2263_2655",
+      "parent_id": "com_2263_2655"
+    },
+    {
+      "name": "Forensic Medicine",
+      "id": "col_2263_2655",
+      "parent_id": "com_2263_2655"
+    },
+    {
+      "name": "Haematology",
+      "id": "com_2263_16937",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Haematology",
+      "id": "col_2263_16937",
+      "parent_id": "com_2263_16937"
+    },
+    {
+      "name": "Haematology",
+      "id": "col_2263_16937",
+      "parent_id": "com_2263_16937"
+    },
+    {
+      "name": "Health Sciences Poster Collection",
+      "id": "com_2263_6345",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Health Sciences Poster Collection",
+      "id": "col_2263_6345",
+      "parent_id": "com_2263_6345"
+    },
+    {
+      "name": "Health Sciences Poster Collection",
+      "id": "col_2263_6345",
+      "parent_id": "com_2263_6345"
+    },
+    {
+      "name": "Health Sciences Poster Collection",
+      "id": "col_2263_6345",
+      "parent_id": "com_2263_6345"
+    },
+    {
+      "name": "Human Nutrition",
+      "id": "com_2263_3523",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Human Nutrition",
+      "id": "col_2263_3523",
+      "parent_id": "com_2263_3523"
+    },
+    {
+      "name": "Human Nutrition",
+      "id": "col_2263_3523",
+      "parent_id": "com_2263_3523"
+    },
+    {
+      "name": "Immunology",
+      "id": "com_2263_1863",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Hepatology and Gastro-intestinal Research Laboratory",
+      "id": "com_2263_4728",
+      "parent_id": "com_2263_1863"
+    },
+    {
+      "name": "Hepatology and Gastro-intestinal Research Laboratory",
+      "id": "col_2263_4728",
+      "parent_id": "com_2263_4728"
+    },
+    {
+      "name": "Hepatology and Gastro-intestinal Research Laboratory",
+      "id": "col_2263_4728",
+      "parent_id": "com_2263_4728"
+    },
+    {
+      "name": "Immunology",
+      "id": "col_2263_1863",
+      "parent_id": "com_2263_1863"
+    },
+    {
+      "name": "Immunology",
+      "id": "col_2263_1863",
+      "parent_id": "com_2263_1863"
+    },
+    {
+      "name": "Internal Medicine",
+      "id": "com_2263_2817",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Internal Medicine",
+      "id": "col_2263_2817",
+      "parent_id": "com_2263_2817"
+    },
+    {
+      "name": "Internal Medicine",
+      "id": "col_2263_2817",
+      "parent_id": "com_2263_2817"
+    },
+    {
+      "name": "Maxillo-Facial and Oral Surgery ",
+      "id": "com_2263_2685",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Maxillo-Facial and Oral Surgery ",
+      "id": "col_2263_2685",
+      "parent_id": "com_2263_2685"
+    },
+    {
+      "name": "Maxillo-Facial and Oral Surgery ",
+      "id": "col_2263_2685",
+      "parent_id": "com_2263_2685"
+    },
+    {
+      "name": "Medical Microbiology",
+      "id": "com_2263_1753",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Medical Microbiology",
+      "id": "col_2263_1753",
+      "parent_id": "com_2263_1753"
+    },
+    {
+      "name": "Medical Microbiology",
+      "id": "col_2263_1753",
+      "parent_id": "com_2263_1753"
+    },
+    {
+      "name": "Medical Microbiology",
+      "id": "col_2263_1753",
+      "parent_id": "com_2263_1753"
+    },
+    {
+      "name": "Medical Oncology",
+      "id": "com_2263_4940",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Medical Oncology",
+      "id": "col_2263_4940",
+      "parent_id": "com_2263_4940"
+    },
+    {
+      "name": "Medical Oncology",
+      "id": "col_2263_4940",
+      "parent_id": "com_2263_4940"
+    },
+    {
+      "name": "Medical Virology",
+      "id": "com_2263_1718",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Estrelita Janse van Rensburg Collection",
+      "id": "com_2263_2329",
+      "parent_id": "com_2263_1718"
+    },
+    {
+      "name": "Estrelita Janse van Rensburg Collection",
+      "id": "col_2263_2329",
+      "parent_id": "com_2263_2329"
+    },
+    {
+      "name": "Estrelita Janse van Rensburg Collection",
+      "id": "col_2263_2329",
+      "parent_id": "com_2263_2329"
+    },
+    {
+      "name": "Medical Virology",
+      "id": "col_2263_1718",
+      "parent_id": "com_2263_1718"
+    },
+    {
+      "name": "Medical Virology",
+      "id": "col_2263_1718",
+      "parent_id": "com_2263_1718"
+    },
+    {
+      "name": "Medical Virology",
+      "id": "col_2263_1718",
+      "parent_id": "com_2263_1718"
+    },
+    {
+      "name": "Neurology",
+      "id": "com_2263_2989",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Neurology",
+      "id": "col_2263_2989",
+      "parent_id": "com_2263_2989"
+    },
+    {
+      "name": "Neurology",
+      "id": "col_2263_2989",
+      "parent_id": "com_2263_2989"
+    },
+    {
+      "name": "Nuclear Medicine",
+      "id": "com_2263_2418",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Nuclear Medicine",
+      "id": "col_2263_2418",
+      "parent_id": "com_2263_2418"
+    },
+    {
+      "name": "Nuclear Medicine",
+      "id": "col_2263_2418",
+      "parent_id": "com_2263_2418"
+    },
+    {
+      "name": "Nursing Science",
+      "id": "com_2263_3525",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Nursing Science",
+      "id": "col_2263_3525",
+      "parent_id": "com_2263_3525"
+    },
+    {
+      "name": "Nursing Science",
+      "id": "col_2263_3525",
+      "parent_id": "com_2263_3525"
+    },
+    {
+      "name": "Obstetrics and Gynaecology",
+      "id": "com_2263_2375",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Obstetrics and Gynaecology",
+      "id": "col_2263_2375",
+      "parent_id": "com_2263_2375"
+    },
+    {
+      "name": "Obstetrics and Gynaecology",
+      "id": "col_2263_2375",
+      "parent_id": "com_2263_2375"
+    },
+    {
+      "name": "Occupational Therapy",
+      "id": "com_2263_21898",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Occupational Therapy",
+      "id": "col_2263_21898",
+      "parent_id": "com_2263_21898"
+    },
+    {
+      "name": "Occupational Therapy",
+      "id": "col_2263_21898",
+      "parent_id": "com_2263_21898"
+    },
+    {
+      "name": "Odontology",
+      "id": "com_2263_4284",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Odontology",
+      "id": "col_2263_4284",
+      "parent_id": "com_2263_4284"
+    },
+    {
+      "name": "Odontology",
+      "id": "col_2263_4284",
+      "parent_id": "com_2263_4284"
+    },
+    {
+      "name": "Office of the Dean: Health Sciences",
+      "id": "com_2263_3527",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Office of the Dean: Health Sciences",
+      "id": "col_2263_3527",
+      "parent_id": "com_2263_3527"
+    },
+    {
+      "name": "Office of the Dean: Health Sciences",
+      "id": "col_2263_3527",
+      "parent_id": "com_2263_3527"
+    },
+    {
+      "name": "Opthalmology",
+      "id": "com_2263_56595",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Opthalmology",
+      "id": "col_2263_56595",
+      "parent_id": "com_2263_56595"
+    },
+    {
+      "name": "Oral Pathology and Oral Biology",
+      "id": "com_2263_1714",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Oral Pathology and Oral Biology",
+      "id": "col_2263_1714",
+      "parent_id": "com_2263_1714"
+    },
+    {
+      "name": "Oral Pathology and Oral Biology",
+      "id": "col_2263_1714",
+      "parent_id": "com_2263_1714"
+    },
+    {
+      "name": "Oral Pathology and Oral Biology",
+      "id": "col_2263_1714",
+      "parent_id": "com_2263_1714"
+    },
+    {
+      "name": "Orthodontics",
+      "id": "com_2263_8347",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Orthodontics",
+      "id": "col_2263_8347",
+      "parent_id": "com_2263_8347"
+    },
+    {
+      "name": "Orthodontics",
+      "id": "col_2263_8347",
+      "parent_id": "com_2263_8347"
+    },
+    {
+      "name": "Orthopaedic Surgery",
+      "id": "com_2263_3855",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Orthopaedic Surgery",
+      "id": "col_2263_3855",
+      "parent_id": "com_2263_3855"
+    },
+    {
+      "name": "Orthopaedic Surgery",
+      "id": "col_2263_3855",
+      "parent_id": "com_2263_3855"
+    },
+    {
+      "name": "Otorhinolaryngology",
+      "id": "com_2263_4946",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Otorhinolaryngology",
+      "id": "col_2263_4946",
+      "parent_id": "com_2263_4946"
+    },
+    {
+      "name": "Otorhinolaryngology",
+      "id": "col_2263_4946",
+      "parent_id": "com_2263_4946"
+    },
+    {
+      "name": "Paediatrics and Child Health",
+      "id": "com_2263_2452",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Paediatrics and Child Health",
+      "id": "col_2263_2452",
+      "parent_id": "com_2263_2452"
+    },
+    {
+      "name": "Paediatrics and Child Health",
+      "id": "col_2263_2452",
+      "parent_id": "com_2263_2452"
+    },
+    {
+      "name": "Paediatrics and Child Health",
+      "id": "col_2263_2452",
+      "parent_id": "com_2263_2452"
+    },
+    {
+      "name": "Periodontics and Oral Medicine",
+      "id": "com_2263_49422",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Periodontics and Oral Medicine",
+      "id": "col_2263_49422",
+      "parent_id": "com_2263_49422"
+    },
+    {
+      "name": "Periodontics and Oral Medicine",
+      "id": "col_2263_49422",
+      "parent_id": "com_2263_49422"
+    },
+    {
+      "name": "Pharmacology",
+      "id": "com_2263_2998",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Pharmacology",
+      "id": "col_2263_2998",
+      "parent_id": "com_2263_2998"
+    },
+    {
+      "name": "Pharmacology",
+      "id": "col_2263_2998",
+      "parent_id": "com_2263_2998"
+    },
+    {
+      "name": "Pharmacology",
+      "id": "col_2263_2998",
+      "parent_id": "com_2263_2998"
+    },
+    {
+      "name": "Physiology",
+      "id": "com_2263_1832",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Physiology",
+      "id": "col_2263_1832",
+      "parent_id": "com_2263_1832"
+    },
+    {
+      "name": "Physiology",
+      "id": "col_2263_1832",
+      "parent_id": "com_2263_1832"
+    },
+    {
+      "name": "Physiology",
+      "id": "col_2263_1832",
+      "parent_id": "com_2263_1832"
+    },
+    {
+      "name": "Physiotherapy",
+      "id": "com_2263_3521",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Physiotherapy",
+      "id": "col_2263_3521",
+      "parent_id": "com_2263_3521"
+    },
+    {
+      "name": "Physiotherapy",
+      "id": "col_2263_3521",
+      "parent_id": "com_2263_3521"
+    },
+    {
+      "name": "Plastic Surgery",
+      "id": "com_2263_4949",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Plastic Surgery",
+      "id": "col_2263_4949",
+      "parent_id": "com_2263_4949"
+    },
+    {
+      "name": "Plastic Surgery",
+      "id": "col_2263_4949",
+      "parent_id": "com_2263_4949"
+    },
+    {
+      "name": "Prosthodontics",
+      "id": "com_2263_8247",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Prosthodontics",
+      "id": "col_2263_8247",
+      "parent_id": "com_2263_8247"
+    },
+    {
+      "name": "Prosthodontics",
+      "id": "col_2263_8247",
+      "parent_id": "com_2263_8247"
+    },
+    {
+      "name": "Psychiatry",
+      "id": "com_2263_3190",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Psychiatry",
+      "id": "col_2263_3190",
+      "parent_id": "com_2263_3190"
+    },
+    {
+      "name": "Psychiatry",
+      "id": "col_2263_3190",
+      "parent_id": "com_2263_3190"
+    },
+    {
+      "name": "Psychiatry",
+      "id": "col_2263_3190",
+      "parent_id": "com_2263_3190"
+    },
+    {
+      "name": "Radiography",
+      "id": "com_2263_1838",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Radiography",
+      "id": "col_2263_1838",
+      "parent_id": "com_2263_1838"
+    },
+    {
+      "name": "Radiography",
+      "id": "col_2263_1838",
+      "parent_id": "com_2263_1838"
+    },
+    {
+      "name": "Radiology",
+      "id": "com_2263_4895",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Radiology",
+      "id": "col_2263_4895",
+      "parent_id": "com_2263_4895"
+    },
+    {
+      "name": "Radiology",
+      "id": "col_2263_4895",
+      "parent_id": "com_2263_4895"
+    },
+    {
+      "name": "School of Health Systems and Public Health (SHSPH)",
+      "id": "com_2263_1722",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "School of Health Systems and Public Health (SHSPH)",
+      "id": "col_2263_1722",
+      "parent_id": "com_2263_1722"
+    },
+    {
+      "name": "School of Health Systems and Public Health (SHSPH)",
+      "id": "col_2263_1722",
+      "parent_id": "com_2263_1722"
+    },
+    {
+      "name": "School of Health Systems and Public Health (SHSPH)",
+      "id": "col_2263_1722",
+      "parent_id": "com_2263_1722"
+    },
+    {
+      "name": "School of Health Systems and Public Health (SHSPH)",
+      "id": "col_2263_1722",
+      "parent_id": "com_2263_1722"
+    },
+    {
+      "name": "Sports Medicine",
+      "id": "com_2263_21146",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Sports Medicine",
+      "id": "col_2263_21146",
+      "parent_id": "com_2263_21146"
+    },
+    {
+      "name": "Sports Medicine",
+      "id": "col_2263_21146",
+      "parent_id": "com_2263_21146"
+    },
+    {
+      "name": "Surgery",
+      "id": "com_2263_1870",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Surgery",
+      "id": "col_2263_1870",
+      "parent_id": "com_2263_1870"
+    },
+    {
+      "name": "Surgery",
+      "id": "col_2263_1870",
+      "parent_id": "com_2263_1870"
+    },
+    {
+      "name": "Surgery",
+      "id": "col_2263_1870",
+      "parent_id": "com_2263_1870"
+    },
+    {
+      "name": "UP Centre for Sustainable Malaria Control (UP CSMC)",
+      "id": "com_2263_39774",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "UP Centre for Sustainable Malaria Control (UP CSMC)",
+      "id": "col_2263_39774",
+      "parent_id": "com_2263_39774"
+    },
+    {
+      "name": "UP Centre for Sustainable Malaria Control (UP CSMC)",
+      "id": "col_2263_39774",
+      "parent_id": "com_2263_39774"
+    },
+    {
+      "name": "UP Centre for Sustainable Malaria Control (UP CSMC)",
+      "id": "col_2263_39774",
+      "parent_id": "com_2263_39774"
+    },
+    {
+      "name": "Urology",
+      "id": "com_2263_1751",
+      "parent_id": "com_2263_1713"
+    },
+    {
+      "name": "Urology",
+      "id": "col_2263_1751",
+      "parent_id": "com_2263_1751"
+    },
+    {
+      "name": "Urology",
+      "id": "col_2263_1751",
+      "parent_id": "com_2263_1751"
+    },
+    {
+      "name": "Humanities",
+      "id": "com_2263_243",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "African Languages",
+      "id": "com_2263_5631",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "African Languages",
+      "id": "col_2263_5631",
+      "parent_id": "com_2263_5631"
+    },
+    {
+      "name": "African Languages",
+      "id": "col_2263_5631",
+      "parent_id": "com_2263_5631"
+    },
+    {
+      "name": "Afrikaans",
+      "id": "com_2263_2394",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Afrikaans",
+      "id": "col_2263_2394",
+      "parent_id": "com_2263_2394"
+    },
+    {
+      "name": "Afrikaans",
+      "id": "col_2263_2394",
+      "parent_id": "com_2263_2394"
+    },
+    {
+      "name": "Afrikaans",
+      "id": "col_2263_2394",
+      "parent_id": "com_2263_2394"
+    },
+    {
+      "name": "Ancient Languages",
+      "id": "com_2263_2772",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Ancient Languages",
+      "id": "col_2263_2772",
+      "parent_id": "com_2263_2772"
+    },
+    {
+      "name": "Ancient Languages",
+      "id": "col_2263_2772",
+      "parent_id": "com_2263_2772"
+    },
+    {
+      "name": "Anthropology and Archaeology",
+      "id": "com_2263_2355",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Anthropology and Archaeology",
+      "id": "col_2263_2355",
+      "parent_id": "com_2263_2355"
+    },
+    {
+      "name": "Anthropology and Archaeology",
+      "id": "col_2263_2355",
+      "parent_id": "com_2263_2355"
+    },
+    {
+      "name": "Biokinetics, Sport and Leisure Sciences",
+      "id": "com_2263_3475",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Biokinetics, Sport and Leisure Sciences",
+      "id": "col_2263_3475",
+      "parent_id": "com_2263_3475"
+    },
+    {
+      "name": "Biokinetics, Sport and Leisure Sciences",
+      "id": "col_2263_3475",
+      "parent_id": "com_2263_3475"
+    },
+    {
+      "name": "Centre for Augmentative and Alternative Communication (CAAC)",
+      "id": "com_2263_244",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Centre for Augmentative and Alternative Communication (CAAC)",
+      "id": "col_2263_244",
+      "parent_id": "com_2263_244"
+    },
+    {
+      "name": "Centre for Augmentative and Alternative Communication (CAAC)",
+      "id": "col_2263_244",
+      "parent_id": "com_2263_244"
+    },
+    {
+      "name": "Centre for Augmentative and Alternative Communication (CAAC)",
+      "id": "col_2263_244",
+      "parent_id": "com_2263_244"
+    },
+    {
+      "name": "Centre for Augmentative and Alternative Communication (CAAC)",
+      "id": "col_2263_244",
+      "parent_id": "com_2263_244"
+    },
+    {
+      "name": "Centre for Business and Professional Ethics",
+      "id": "com_2263_2446",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Centre for Business and Professional Ethics",
+      "id": "col_2263_2446",
+      "parent_id": "com_2263_2446"
+    },
+    {
+      "name": "Centre for Business and Professional Ethics",
+      "id": "col_2263_2446",
+      "parent_id": "com_2263_2446"
+    },
+    {
+      "name": "Centre for International Political Studies",
+      "id": "com_2263_2954",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Centre for International Political Studies",
+      "id": "col_2263_2954",
+      "parent_id": "com_2263_2954"
+    },
+    {
+      "name": "Centre for International Political Studies",
+      "id": "col_2263_2954",
+      "parent_id": "com_2263_2954"
+    },
+    {
+      "name": "Centre for Sexualities, AIDS and Gender (CSA&G)",
+      "id": "com_2263_51809",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Centre for Sexualities, AIDS and Gender (CSA&G)",
+      "id": "col_2263_51809",
+      "parent_id": "com_2263_51809"
+    },
+    {
+      "name": "Drama",
+      "id": "com_2263_4360",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Drama",
+      "id": "col_2263_4360",
+      "parent_id": "com_2263_4360"
+    },
+    {
+      "name": "Drama",
+      "id": "col_2263_4360",
+      "parent_id": "com_2263_4360"
+    },
+    {
+      "name": "English",
+      "id": "com_2263_2976",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "English",
+      "id": "col_2263_2976",
+      "parent_id": "com_2263_2976"
+    },
+    {
+      "name": "English",
+      "id": "col_2263_2976",
+      "parent_id": "com_2263_2976"
+    },
+    {
+      "name": "Historical and Heritage Studies",
+      "id": "com_2263_2619",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Historical and Heritage Studies",
+      "id": "col_2263_2619",
+      "parent_id": "com_2263_2619"
+    },
+    {
+      "name": "Historical and Heritage Studies",
+      "id": "col_2263_2619",
+      "parent_id": "com_2263_2619"
+    },
+    {
+      "name": "Institute for Sport Research",
+      "id": "com_2263_5226",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Institute for Sport Research",
+      "id": "col_2263_5226",
+      "parent_id": "com_2263_5226"
+    },
+    {
+      "name": "Institute for Sport Research",
+      "id": "col_2263_5226",
+      "parent_id": "com_2263_5226"
+    },
+    {
+      "name": "Institute for Strategic Studies",
+      "id": "com_2263_3011",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Institute for Strategic Studies",
+      "id": "col_2263_3011",
+      "parent_id": "com_2263_3011"
+    },
+    {
+      "name": "Institute for Strategic Studies",
+      "id": "col_2263_3011",
+      "parent_id": "com_2263_3011"
+    },
+    {
+      "name": "Institute for Women’s and Gender Studies ",
+      "id": "com_2263_14448",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Institute for Women’s and Gender Studies ",
+      "id": "col_2263_14448",
+      "parent_id": "com_2263_14448"
+    },
+    {
+      "name": "Institute for Women’s and Gender Studies ",
+      "id": "col_2263_14448",
+      "parent_id": "com_2263_14448"
+    },
+    {
+      "name": "Modern European Languages",
+      "id": "com_2263_5229",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Modern European Languages",
+      "id": "col_2263_5229",
+      "parent_id": "com_2263_5229"
+    },
+    {
+      "name": "Modern European Languages",
+      "id": "col_2263_5229",
+      "parent_id": "com_2263_5229"
+    },
+    {
+      "name": "Music",
+      "id": "com_2263_2392",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Music",
+      "id": "col_2263_2392",
+      "parent_id": "com_2263_2392"
+    },
+    {
+      "name": "Music",
+      "id": "col_2263_2392",
+      "parent_id": "com_2263_2392"
+    },
+    {
+      "name": "Music",
+      "id": "col_2263_2392",
+      "parent_id": "com_2263_2392"
+    },
+    {
+      "name": "Philosophy",
+      "id": "com_2263_1875",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Annual Conference (Philosophical Society of Southern Africa)",
+      "id": "com_2263_7513",
+      "parent_id": "com_2263_1875"
+    },
+    {
+      "name": "Annual Conference (Philosophical Society of Southern Africa)",
+      "id": "col_2263_7513",
+      "parent_id": "com_2263_7513"
+    },
+    {
+      "name": "South African Society for Greek Philosophy and the Humanities",
+      "id": "com_2263_4135",
+      "parent_id": "com_2263_1875"
+    },
+    {
+      "name": "Phronimon",
+      "id": "com_2263_4136",
+      "parent_id": "com_2263_4135"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Phronimon",
+      "id": "col_2263_4136",
+      "parent_id": "com_2263_4136"
+    },
+    {
+      "name": "Philosophy",
+      "id": "col_2263_1875",
+      "parent_id": "com_2263_1875"
+    },
+    {
+      "name": "Philosophy",
+      "id": "col_2263_1875",
+      "parent_id": "com_2263_1875"
+    },
+    {
+      "name": "Philosophy",
+      "id": "col_2263_1875",
+      "parent_id": "com_2263_1875"
+    },
+    {
+      "name": "Political Sciences",
+      "id": "com_2263_3013",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Political Sciences",
+      "id": "col_2263_3013",
+      "parent_id": "com_2263_3013"
+    },
+    {
+      "name": "Political Sciences",
+      "id": "col_2263_3013",
+      "parent_id": "com_2263_3013"
+    },
+    {
+      "name": "Political Sciences",
+      "id": "col_2263_3013",
+      "parent_id": "com_2263_3013"
+    },
+    {
+      "name": "Psychology",
+      "id": "com_2263_1797",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Psychology",
+      "id": "col_2263_1797",
+      "parent_id": "com_2263_1797"
+    },
+    {
+      "name": "Psychology",
+      "id": "col_2263_1797",
+      "parent_id": "com_2263_1797"
+    },
+    {
+      "name": "Social Work and Criminology",
+      "id": "com_2263_2357",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Social Work and Criminology",
+      "id": "col_2263_2357",
+      "parent_id": "com_2263_2357"
+    },
+    {
+      "name": "Social Work and Criminology",
+      "id": "col_2263_2357",
+      "parent_id": "com_2263_2357"
+    },
+    {
+      "name": "Social Work and Criminology",
+      "id": "col_2263_2357",
+      "parent_id": "com_2263_2357"
+    },
+    {
+      "name": "Sociology",
+      "id": "com_2263_5831",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Sociology",
+      "id": "col_2263_5831",
+      "parent_id": "com_2263_5831"
+    },
+    {
+      "name": "Sociology",
+      "id": "col_2263_5831",
+      "parent_id": "com_2263_5831"
+    },
+    {
+      "name": "Speech-Language Pathology and Audiology",
+      "id": "com_2263_1743",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Speech-Language Pathology and Audiology",
+      "id": "col_2263_1743",
+      "parent_id": "com_2263_1743"
+    },
+    {
+      "name": "Speech-Language Pathology and Audiology",
+      "id": "col_2263_1743",
+      "parent_id": "com_2263_1743"
+    },
+    {
+      "name": "Speech-Language Pathology and Audiology",
+      "id": "col_2263_1743",
+      "parent_id": "com_2263_1743"
+    },
+    {
+      "name": "Tangible Heritage Conservation",
+      "id": "com_2263_78184",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Tangible Heritage Conservation",
+      "id": "col_2263_78184",
+      "parent_id": "com_2263_78184"
+    },
+    {
+      "name": "Unit for Academic Literacy",
+      "id": "com_2263_2425",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Unit for Academic Literacy",
+      "id": "col_2263_2425",
+      "parent_id": "com_2263_2425"
+    },
+    {
+      "name": "Unit for Academic Literacy",
+      "id": "col_2263_2425",
+      "parent_id": "com_2263_2425"
+    },
+    {
+      "name": "Unit for Creative Writing",
+      "id": "com_2263_6192",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Unit for Creative Writing",
+      "id": "col_2263_6192",
+      "parent_id": "com_2263_6192"
+    },
+    {
+      "name": "Unit for Creative Writing",
+      "id": "col_2263_6192",
+      "parent_id": "com_2263_6192"
+    },
+    {
+      "name": "Visual Arts",
+      "id": "com_2263_2478",
+      "parent_id": "com_2263_243"
+    },
+    {
+      "name": "Visual Arts",
+      "id": "col_2263_2478",
+      "parent_id": "com_2263_2478"
+    },
+    {
+      "name": "Visual Arts",
+      "id": "col_2263_2478",
+      "parent_id": "com_2263_2478"
+    },
+    {
+      "name": "Law",
+      "id": "com_2263_925",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Centre for Child Law ",
+      "id": "com_2263_7839",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Centre for Child Law ",
+      "id": "col_2263_7839",
+      "parent_id": "com_2263_7839"
+    },
+    {
+      "name": "Centre for Child Law ",
+      "id": "col_2263_7839",
+      "parent_id": "com_2263_7839"
+    },
+    {
+      "name": "Centre for Human Rights",
+      "id": "com_2263_926",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Centre for Human Rights",
+      "id": "col_2263_926",
+      "parent_id": "com_2263_926"
+    },
+    {
+      "name": "Centre for Human Rights",
+      "id": "col_2263_926",
+      "parent_id": "com_2263_926"
+    },
+    {
+      "name": "Centre for Human Rights",
+      "id": "col_2263_926",
+      "parent_id": "com_2263_926"
+    },
+    {
+      "name": "Early South African Legal Sources",
+      "id": "com_2263_56530",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Early South African Legal Sources",
+      "id": "col_2263_56530",
+      "parent_id": "com_2263_56530"
+    },
+    {
+      "name": "Early South African Legal Sources",
+      "id": "col_2263_56530",
+      "parent_id": "com_2263_56530"
+    },
+    {
+      "name": "Institute for International and Comparative Law in Africa",
+      "id": "com_2263_21472",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Institute for International and Comparative Law in Africa",
+      "id": "col_2263_21472",
+      "parent_id": "com_2263_21472"
+    },
+    {
+      "name": "Jurisprudence",
+      "id": "com_2263_2427",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Jurisprudence",
+      "id": "col_2263_2427",
+      "parent_id": "com_2263_2427"
+    },
+    {
+      "name": "Jurisprudence",
+      "id": "col_2263_2427",
+      "parent_id": "com_2263_2427"
+    },
+    {
+      "name": "Mercantile Law",
+      "id": "com_2263_2606",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Mercantile Law",
+      "id": "col_2263_2606",
+      "parent_id": "com_2263_2606"
+    },
+    {
+      "name": "Mercantile Law",
+      "id": "col_2263_2606",
+      "parent_id": "com_2263_2606"
+    },
+    {
+      "name": "Office of the Dean: Law",
+      "id": "com_2263_5932",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Office of the Dean: Law",
+      "id": "col_2263_5932",
+      "parent_id": "com_2263_5932"
+    },
+    {
+      "name": "Private Law",
+      "id": "com_2263_3203",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Private Law",
+      "id": "col_2263_3203",
+      "parent_id": "com_2263_3203"
+    },
+    {
+      "name": "Private Law",
+      "id": "col_2263_3203",
+      "parent_id": "com_2263_3203"
+    },
+    {
+      "name": "Procedural Law",
+      "id": "com_2263_3206",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Procedural Law",
+      "id": "col_2263_3206",
+      "parent_id": "com_2263_3206"
+    },
+    {
+      "name": "Procedural Law",
+      "id": "col_2263_3206",
+      "parent_id": "com_2263_3206"
+    },
+    {
+      "name": "Public Law",
+      "id": "com_2263_2429",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Public Law",
+      "id": "col_2263_2429",
+      "parent_id": "com_2263_2429"
+    },
+    {
+      "name": "Public Law",
+      "id": "col_2263_2429",
+      "parent_id": "com_2263_2429"
+    },
+    {
+      "name": "Statutes of the old South African Colonies : 1714-1910",
+      "id": "com_2263_17595",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Law",
+      "id": "col_2263_925",
+      "parent_id": "com_2263_925"
+    },
+    {
+      "name": "Library Services",
+      "id": "com_2263_567",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Centre for African Library Leadership (CALL)",
+      "id": "com_2263_10904",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Carnegie Library Leadership Academy (CLLA)",
+      "id": "com_2263_10947",
+      "parent_id": "com_2263_10904"
+    },
+    {
+      "name": "Carnegie Library Leadership Academy (CLLA)",
+      "id": "col_2263_10947",
+      "parent_id": "com_2263_10947"
+    },
+    {
+      "name": "Conferences (Department of Library Services)",
+      "id": "com_2263_4654",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Conferences (Department of Library Services)",
+      "id": "col_2263_4654",
+      "parent_id": "com_2263_4654"
+    },
+    {
+      "name": "Conferences (Department of Library Services)",
+      "id": "col_2263_4654",
+      "parent_id": "com_2263_4654"
+    },
+    {
+      "name": "Seminars (Department of Library Services)",
+      "id": "com_2263_16939",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Seminars (Department of Library Services)",
+      "id": "col_2263_16939",
+      "parent_id": "com_2263_16939"
+    },
+    {
+      "name": "Symposiums (Department of Library Services)",
+      "id": "com_2263_19715",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Symposiums (Department of Library Services)",
+      "id": "col_2263_19715",
+      "parent_id": "com_2263_19715"
+    },
+    {
+      "name": "Workshops (Department of Library Services)",
+      "id": "com_2263_21656",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Workshops (Department of Library Services)",
+      "id": "col_2263_21656",
+      "parent_id": "com_2263_21656"
+    },
+    {
+      "name": "Library Services",
+      "id": "col_2263_567",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Library Services",
+      "id": "col_2263_567",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Library Services",
+      "id": "col_2263_567",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Library Services",
+      "id": "col_2263_567",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Library Services",
+      "id": "col_2263_567",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Library Services",
+      "id": "col_2263_567",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Library Services",
+      "id": "col_2263_567",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Library Services",
+      "id": "col_2263_567",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Library Services",
+      "id": "col_2263_567",
+      "parent_id": "com_2263_567"
+    },
+    {
+      "name": "Mapungubwe Collection Repository",
+      "id": "com_2263_589",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Mapungubwe Collection Repository",
+      "id": "col_2263_589",
+      "parent_id": "com_2263_589"
+    },
+    {
+      "name": "Natural and Agricultural Sciences",
+      "id": "com_2263_371",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Agricultural Economics, Extension and  Rural Development",
+      "id": "com_2263_1119",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Conferences (Agricultural Economics, Extension and  Rural Development)",
+      "id": "com_2263_15741",
+      "parent_id": "com_2263_1119"
+    },
+    {
+      "name": "Conferences (Agricultural Economics, Extension and  Rural Development)",
+      "id": "col_2263_15741",
+      "parent_id": "com_2263_15741"
+    },
+    {
+      "name": "UP Experts (Johann Kirsten Collection)",
+      "id": "com_2263_1124",
+      "parent_id": "com_2263_1119"
+    },
+    {
+      "name": "UP Experts (Johann Kirsten Collection)",
+      "id": "col_2263_1124",
+      "parent_id": "com_2263_1124"
+    },
+    {
+      "name": "UP Experts (Johann Kirsten Collection)",
+      "id": "col_2263_1124",
+      "parent_id": "com_2263_1124"
+    },
+    {
+      "name": "UP Experts (Johann Kirsten Collection)",
+      "id": "col_2263_1124",
+      "parent_id": "com_2263_1124"
+    },
+    {
+      "name": "UP Experts (Johann Kirsten Collection)",
+      "id": "col_2263_1124",
+      "parent_id": "com_2263_1124"
+    },
+    {
+      "name": "UP Experts (Johann Kirsten Collection)",
+      "id": "col_2263_1124",
+      "parent_id": "com_2263_1124"
+    },
+    {
+      "name": "UP Experts (Johann Kirsten Collection)",
+      "id": "col_2263_1124",
+      "parent_id": "com_2263_1124"
+    },
+    {
+      "name": "Agricultural Economics, Extension and  Rural Development",
+      "id": "col_2263_1119",
+      "parent_id": "com_2263_1119"
+    },
+    {
+      "name": "Agricultural Economics, Extension and  Rural Development",
+      "id": "col_2263_1119",
+      "parent_id": "com_2263_1119"
+    },
+    {
+      "name": "Agricultural Economics, Extension and  Rural Development",
+      "id": "col_2263_1119",
+      "parent_id": "com_2263_1119"
+    },
+    {
+      "name": "Animal and Wildlife Sciences",
+      "id": "com_2263_1747",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Animal and Wildlife Sciences",
+      "id": "col_2263_1747",
+      "parent_id": "com_2263_1747"
+    },
+    {
+      "name": "Animal and Wildlife Sciences",
+      "id": "col_2263_1747",
+      "parent_id": "com_2263_1747"
+    },
+    {
+      "name": "Biochemistry",
+      "id": "com_2263_1730",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Biochemistry",
+      "id": "col_2263_1730",
+      "parent_id": "com_2263_1730"
+    },
+    {
+      "name": "Biochemistry",
+      "id": "col_2263_1730",
+      "parent_id": "com_2263_1730"
+    },
+    {
+      "name": "Biochemistry",
+      "id": "col_2263_1730",
+      "parent_id": "com_2263_1730"
+    },
+    {
+      "name": "Bioinformatics and Computational Biology Unit",
+      "id": "com_2263_3364",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Bioinformatics and Computational Biology Unit",
+      "id": "col_2263_3364",
+      "parent_id": "com_2263_3364"
+    },
+    {
+      "name": "Bioinformatics and Computational Biology Unit",
+      "id": "col_2263_3364",
+      "parent_id": "com_2263_3364"
+    },
+    {
+      "name": "Centre for Nutrition",
+      "id": "com_2263_5854",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Centre for Nutrition",
+      "id": "col_2263_5854",
+      "parent_id": "com_2263_5854"
+    },
+    {
+      "name": "Centre for Nutrition",
+      "id": "col_2263_5854",
+      "parent_id": "com_2263_5854"
+    },
+    {
+      "name": "Centre for Wildlife Management",
+      "id": "com_2263_1795",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Centre for Wildlife Management",
+      "id": "col_2263_1795",
+      "parent_id": "com_2263_1795"
+    },
+    {
+      "name": "Centre for Wildlife Management",
+      "id": "col_2263_1795",
+      "parent_id": "com_2263_1795"
+    },
+    {
+      "name": "Chemistry",
+      "id": "com_2263_372",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Chemistry",
+      "id": "col_2263_372",
+      "parent_id": "com_2263_372"
+    },
+    {
+      "name": "Chemistry",
+      "id": "col_2263_372",
+      "parent_id": "com_2263_372"
+    },
+    {
+      "name": "Consumer Science",
+      "id": "com_2263_2769",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Consumer Science",
+      "id": "col_2263_2769",
+      "parent_id": "com_2263_2769"
+    },
+    {
+      "name": "Consumer Science",
+      "id": "col_2263_2769",
+      "parent_id": "com_2263_2769"
+    },
+    {
+      "name": "Food Science",
+      "id": "com_2263_1726",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Food Science",
+      "id": "col_2263_1726",
+      "parent_id": "com_2263_1726"
+    },
+    {
+      "name": "Food Science",
+      "id": "col_2263_1726",
+      "parent_id": "com_2263_1726"
+    },
+    {
+      "name": "Forestry and Agricultural Biotechnology Institute (FABI)",
+      "id": "com_2263_1755",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Forestry and Agricultural Biotechnology Institute (FABI)",
+      "id": "col_2263_1755",
+      "parent_id": "com_2263_1755"
+    },
+    {
+      "name": "Forestry and Agricultural Biotechnology Institute (FABI)",
+      "id": "col_2263_1755",
+      "parent_id": "com_2263_1755"
+    },
+    {
+      "name": "Forestry and Agricultural Biotechnology Institute (FABI)",
+      "id": "col_2263_1755",
+      "parent_id": "com_2263_1755"
+    },
+    {
+      "name": "Forestry and Agricultural Biotechnology Institute (FABI)",
+      "id": "col_2263_1755",
+      "parent_id": "com_2263_1755"
+    },
+    {
+      "name": "Genetics",
+      "id": "com_2263_1836",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Genetics",
+      "id": "col_2263_1836",
+      "parent_id": "com_2263_1836"
+    },
+    {
+      "name": "Genetics",
+      "id": "col_2263_1836",
+      "parent_id": "com_2263_1836"
+    },
+    {
+      "name": "Geography, Geoinformatics and Meteorology",
+      "id": "com_2263_1935",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Centre for Geo-Information Science (CGIS)",
+      "id": "com_2263_42253",
+      "parent_id": "com_2263_1935"
+    },
+    {
+      "name": "Centre for Geo-Information Science (CGIS)",
+      "id": "col_2263_42253",
+      "parent_id": "com_2263_42253"
+    },
+    {
+      "name": "Centre for Geo-Information Science (CGIS)",
+      "id": "col_2263_42253",
+      "parent_id": "com_2263_42253"
+    },
+    {
+      "name": "Geography, Geoinformatics and Meteorology",
+      "id": "col_2263_1935",
+      "parent_id": "com_2263_1935"
+    },
+    {
+      "name": "Geography, Geoinformatics and Meteorology",
+      "id": "col_2263_1935",
+      "parent_id": "com_2263_1935"
+    },
+    {
+      "name": "Geology",
+      "id": "com_2263_1737",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Geology",
+      "id": "col_2263_1737",
+      "parent_id": "com_2263_1737"
+    },
+    {
+      "name": "Geology",
+      "id": "col_2263_1737",
+      "parent_id": "com_2263_1737"
+    },
+    {
+      "name": "Insurance and Actuarial Science",
+      "id": "com_2263_18598",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Insurance and Actuarial Science",
+      "id": "col_2263_18598",
+      "parent_id": "com_2263_18598"
+    },
+    {
+      "name": "Insurance and Actuarial Science",
+      "id": "col_2263_18598",
+      "parent_id": "com_2263_18598"
+    },
+    {
+      "name": "Laboratory for Microscopy and Microanalysis",
+      "id": "com_2263_5930",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Laboratory for Microscopy and Microanalysis",
+      "id": "col_2263_5930",
+      "parent_id": "com_2263_5930"
+    },
+    {
+      "name": "Laboratory for Microscopy and Microanalysis",
+      "id": "col_2263_5930",
+      "parent_id": "com_2263_5930"
+    },
+    {
+      "name": "Mammal Research Institute",
+      "id": "com_2263_5231",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Mammal Research Institute",
+      "id": "col_2263_5231",
+      "parent_id": "com_2263_5231"
+    },
+    {
+      "name": "Mammal Research Institute",
+      "id": "col_2263_5231",
+      "parent_id": "com_2263_5231"
+    },
+    {
+      "name": "Mathematics and Applied Mathematics",
+      "id": "com_2263_1977",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Mathematics and Applied Mathematics",
+      "id": "col_2263_1977",
+      "parent_id": "com_2263_1977"
+    },
+    {
+      "name": "Mathematics and Applied Mathematics",
+      "id": "col_2263_1977",
+      "parent_id": "com_2263_1977"
+    },
+    {
+      "name": "Mathematics and Applied Mathematics",
+      "id": "col_2263_1977",
+      "parent_id": "com_2263_1977"
+    },
+    {
+      "name": "Microbiology and Plant Pathology",
+      "id": "com_2263_1734",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "UP Experts (Eugene Cloete Collection)",
+      "id": "com_2263_3307",
+      "parent_id": "com_2263_1734"
+    },
+    {
+      "name": "UP Experts (Eugene Cloete Collection)",
+      "id": "col_2263_3307",
+      "parent_id": "com_2263_3307"
+    },
+    {
+      "name": "Microbiology and Plant Pathology",
+      "id": "col_2263_1734",
+      "parent_id": "com_2263_1734"
+    },
+    {
+      "name": "Microbiology and Plant Pathology",
+      "id": "col_2263_1734",
+      "parent_id": "com_2263_1734"
+    },
+    {
+      "name": "Physics",
+      "id": "com_2263_1185",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "UP Experts (Danie Auret Collection)",
+      "id": "com_2263_1189",
+      "parent_id": "com_2263_1185"
+    },
+    {
+      "name": "UP Experts (Danie Auret Collection)",
+      "id": "col_2263_1189",
+      "parent_id": "com_2263_1189"
+    },
+    {
+      "name": "Physics",
+      "id": "col_2263_1185",
+      "parent_id": "com_2263_1185"
+    },
+    {
+      "name": "Physics",
+      "id": "col_2263_1185",
+      "parent_id": "com_2263_1185"
+    },
+    {
+      "name": "Physics",
+      "id": "col_2263_1185",
+      "parent_id": "com_2263_1185"
+    },
+    {
+      "name": "Physics",
+      "id": "col_2263_1185",
+      "parent_id": "com_2263_1185"
+    },
+    {
+      "name": "Plant Production and Soil Science",
+      "id": "com_2263_1728",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Plant Production and Soil Science",
+      "id": "col_2263_1728",
+      "parent_id": "com_2263_1728"
+    },
+    {
+      "name": "Plant Production and Soil Science",
+      "id": "col_2263_1728",
+      "parent_id": "com_2263_1728"
+    },
+    {
+      "name": "Plant Science",
+      "id": "com_2263_1732",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Plant Science",
+      "id": "col_2263_1732",
+      "parent_id": "com_2263_1732"
+    },
+    {
+      "name": "Plant Science",
+      "id": "col_2263_1732",
+      "parent_id": "com_2263_1732"
+    },
+    {
+      "name": "Statistics",
+      "id": "com_2263_1834",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Statistics",
+      "id": "col_2263_1834",
+      "parent_id": "com_2263_1834"
+    },
+    {
+      "name": "Statistics",
+      "id": "col_2263_1834",
+      "parent_id": "com_2263_1834"
+    },
+    {
+      "name": "Zoology and Entomology",
+      "id": "com_2263_1739",
+      "parent_id": "com_2263_371"
+    },
+    {
+      "name": "Zoology and Entomology",
+      "id": "col_2263_1739",
+      "parent_id": "com_2263_1739"
+    },
+    {
+      "name": "Zoology and Entomology",
+      "id": "col_2263_1739",
+      "parent_id": "com_2263_1739"
+    },
+    {
+      "name": "Zoology and Entomology",
+      "id": "col_2263_1739",
+      "parent_id": "com_2263_1739"
+    },
+    {
+      "name": "South African National Veterinary Repository",
+      "id": "com_2263_3809",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "ARC-Onderstepoort Veterinary Research",
+      "id": "com_2263_69166",
+      "parent_id": "com_2263_3809"
+    },
+    {
+      "name": "ARC-Onderstepoort Veterinary Research",
+      "id": "col_2263_69166",
+      "parent_id": "com_2263_69166"
+    },
+    {
+      "name": "History Committee of the South African Veterinary Association",
+      "id": "com_2263_6850",
+      "parent_id": "com_2263_3809"
+    },
+    {
+      "name": "History Committee of the South African Veterinary Association",
+      "id": "col_2263_6850",
+      "parent_id": "com_2263_6850"
+    },
+    {
+      "name": "Journal of the SA Veterinary Association",
+      "id": "com_2263_8640",
+      "parent_id": "com_2263_3809"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "com_2263_8641",
+      "parent_id": "com_2263_3809"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "Onderstepoort Journal of Veterinary Research",
+      "id": "col_2263_8641",
+      "parent_id": "com_2263_8641"
+    },
+    {
+      "name": "South African National Veterinary Repository",
+      "id": "col_2263_3809",
+      "parent_id": "com_2263_3809"
+    },
+    {
+      "name": "South African National Veterinary Repository",
+      "id": "col_2263_3809",
+      "parent_id": "com_2263_3809"
+    },
+    {
+      "name": "South African National Veterinary Repository",
+      "id": "col_2263_3809",
+      "parent_id": "com_2263_3809"
+    },
+    {
+      "name": "South African National Veterinary Repository",
+      "id": "col_2263_3809",
+      "parent_id": "com_2263_3809"
+    },
+    {
+      "name": "South African National Veterinary Repository",
+      "id": "col_2263_3809",
+      "parent_id": "com_2263_3809"
+    },
+    {
+      "name": "Special Collections",
+      "id": "com_2263_77",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "African Heritage Collections",
+      "id": "com_2263_84",
+      "parent_id": "com_2263_77"
+    },
+    {
+      "name": "Africana Collections",
+      "id": "com_2263_92",
+      "parent_id": "com_2263_84"
+    },
+    {
+      "name": "Africana Collections",
+      "id": "col_2263_92",
+      "parent_id": "com_2263_92"
+    },
+    {
+      "name": "Africana Collections",
+      "id": "col_2263_92",
+      "parent_id": "com_2263_92"
+    },
+    {
+      "name": "Africana Collections",
+      "id": "col_2263_92",
+      "parent_id": "com_2263_92"
+    },
+    {
+      "name": "Africana Collections",
+      "id": "col_2263_92",
+      "parent_id": "com_2263_92"
+    },
+    {
+      "name": "Anthropological, Archaeological and History Collections",
+      "id": "com_2263_88",
+      "parent_id": "com_2263_84"
+    },
+    {
+      "name": "Anthropological, Archaeological and History Collections",
+      "id": "col_2263_88",
+      "parent_id": "com_2263_88"
+    },
+    {
+      "name": "Anthropological, Archaeological and History Collections",
+      "id": "col_2263_88",
+      "parent_id": "com_2263_88"
+    },
+    {
+      "name": "Anthropological, Archaeological and History Collections",
+      "id": "col_2263_88",
+      "parent_id": "com_2263_88"
+    },
+    {
+      "name": "Pretoriana Collections",
+      "id": "com_2263_93",
+      "parent_id": "com_2263_84"
+    },
+    {
+      "name": "South African Architects",
+      "id": "com_2263_86",
+      "parent_id": "com_2263_84"
+    },
+    {
+      "name": "South African Architects",
+      "id": "col_2263_86",
+      "parent_id": "com_2263_86"
+    },
+    {
+      "name": "South African Architects",
+      "id": "col_2263_86",
+      "parent_id": "com_2263_86"
+    },
+    {
+      "name": "South African Music Collections",
+      "id": "com_2263_17222",
+      "parent_id": "com_2263_84"
+    },
+    {
+      "name": "South African Music Collections",
+      "id": "col_2263_17222",
+      "parent_id": "com_2263_17222"
+    },
+    {
+      "name": "South African Music Collections",
+      "id": "col_2263_17222",
+      "parent_id": "com_2263_17222"
+    },
+    {
+      "name": "South African Music Collections",
+      "id": "col_2263_17222",
+      "parent_id": "com_2263_17222"
+    },
+    {
+      "name": "Historical Legal Documents",
+      "id": "com_2263_63469",
+      "parent_id": "com_2263_77"
+    },
+    {
+      "name": "Historical Legal Documents",
+      "id": "col_2263_63469",
+      "parent_id": "com_2263_63469"
+    },
+    {
+      "name": "Historical Legal Documents",
+      "id": "col_2263_63469",
+      "parent_id": "com_2263_63469"
+    },
+    {
+      "name": "UP Publications",
+      "id": "com_2263_1843",
+      "parent_id": "com_2263_77"
+    },
+    {
+      "name": "UP Publications",
+      "id": "col_2263_1843",
+      "parent_id": "com_2263_1843"
+    },
+    {
+      "name": "UP Publications",
+      "id": "col_2263_1843",
+      "parent_id": "com_2263_1843"
+    },
+    {
+      "name": "UP Publications",
+      "id": "col_2263_1843",
+      "parent_id": "com_2263_1843"
+    },
+    {
+      "name": "Special Collections",
+      "id": "col_2263_77",
+      "parent_id": "com_2263_77"
+    },
+    {
+      "name": "Special Collections",
+      "id": "col_2263_77",
+      "parent_id": "com_2263_77"
+    },
+    {
+      "name": "Special Collections",
+      "id": "col_2263_77",
+      "parent_id": "com_2263_77"
+    },
+    {
+      "name": "Special Collections",
+      "id": "col_2263_77",
+      "parent_id": "com_2263_77"
+    },
+    {
+      "name": "Special Collections",
+      "id": "col_2263_77",
+      "parent_id": "com_2263_77"
+    },
+    {
+      "name": "Special Collections",
+      "id": "col_2263_77",
+      "parent_id": "com_2263_77"
+    },
+    {
+      "name": "Support Services & Inter-Disciplinary Departments",
+      "id": "com_2263_16412",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Future Africa",
+      "id": "com_2263_81895",
+      "parent_id": "com_2263_16412"
+    },
+    {
+      "name": "Future Africa",
+      "id": "col_2263_81895",
+      "parent_id": "com_2263_81895"
+    },
+    {
+      "name": "TUKS Alumni",
+      "id": "com_2263_16414",
+      "parent_id": "com_2263_16412"
+    },
+    {
+      "name": "TUKS Alumni",
+      "id": "col_2263_16414",
+      "parent_id": "com_2263_16414"
+    },
+    {
+      "name": "Support Services & Inter-Disciplinary Departments",
+      "id": "col_2263_16412",
+      "parent_id": "com_2263_16412"
+    },
+    {
+      "name": "Test",
+      "id": "com_2263_67743",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Test",
+      "id": "col_2263_67743",
+      "parent_id": "com_2263_67743"
+    },
+    {
+      "name": "TestImport",
+      "id": "com_2263_65431",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "TestImport",
+      "id": "col_2263_65431",
+      "parent_id": "com_2263_65431"
+    },
+    {
+      "name": "Theology",
+      "id": "com_2263_1770",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Africa Institute of Missiology",
+      "id": "com_2263_2911",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Africa Institute of Missiology",
+      "id": "col_2263_2911",
+      "parent_id": "com_2263_2911"
+    },
+    {
+      "name": "Africa Institute of Missiology",
+      "id": "col_2263_2911",
+      "parent_id": "com_2263_2911"
+    },
+    {
+      "name": "Biblical and Religious Studies",
+      "id": "com_2263_9838",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Biblical and Religious Studies",
+      "id": "col_2263_9838",
+      "parent_id": "com_2263_9838"
+    },
+    {
+      "name": "Biblical and Religious Studies",
+      "id": "col_2263_9838",
+      "parent_id": "com_2263_9838"
+    },
+    {
+      "name": "Centre for Contextual Ministry",
+      "id": "com_2263_4131",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Centre for Contextual Ministry",
+      "id": "col_2263_4131",
+      "parent_id": "com_2263_4131"
+    },
+    {
+      "name": "Centre for Contextual Ministry",
+      "id": "col_2263_4131",
+      "parent_id": "com_2263_4131"
+    },
+    {
+      "name": "Church History and Church Policy",
+      "id": "com_2263_2448",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Church History and Church Policy",
+      "id": "col_2263_2448",
+      "parent_id": "com_2263_2448"
+    },
+    {
+      "name": "Church History and Church Policy",
+      "id": "col_2263_2448",
+      "parent_id": "com_2263_2448"
+    },
+    {
+      "name": "Dogmatics and Christian Ethics",
+      "id": "com_2263_2560",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Dogmatics and Christian Ethics",
+      "id": "col_2263_2560",
+      "parent_id": "com_2263_2560"
+    },
+    {
+      "name": "Dogmatics and Christian Ethics",
+      "id": "col_2263_2560",
+      "parent_id": "com_2263_2560"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "com_2263_11004",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "HTS Teologiese Studies / Theological Studies",
+      "id": "col_2263_11004",
+      "parent_id": "com_2263_11004"
+    },
+    {
+      "name": "New Testament Studies",
+      "id": "com_2263_2557",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "New Testament Studies",
+      "id": "col_2263_2557",
+      "parent_id": "com_2263_2557"
+    },
+    {
+      "name": "New Testament Studies",
+      "id": "col_2263_2557",
+      "parent_id": "com_2263_2557"
+    },
+    {
+      "name": "New Testament Studies",
+      "id": "col_2263_2557",
+      "parent_id": "com_2263_2557"
+    },
+    {
+      "name": "Old Testament Studies",
+      "id": "com_2263_1771",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Old Testament Studies",
+      "id": "col_2263_1771",
+      "parent_id": "com_2263_1771"
+    },
+    {
+      "name": "Old Testament Studies",
+      "id": "col_2263_1771",
+      "parent_id": "com_2263_1771"
+    },
+    {
+      "name": "Old Testament Studies",
+      "id": "col_2263_1771",
+      "parent_id": "com_2263_1771"
+    },
+    {
+      "name": "Practical Theology",
+      "id": "com_2263_2562",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Practical Theology",
+      "id": "col_2263_2562",
+      "parent_id": "com_2263_2562"
+    },
+    {
+      "name": "Practical Theology",
+      "id": "col_2263_2562",
+      "parent_id": "com_2263_2562"
+    },
+    {
+      "name": "Practical Theology",
+      "id": "col_2263_2562",
+      "parent_id": "com_2263_2562"
+    },
+    {
+      "name": "Practical Theology",
+      "id": "col_2263_2562",
+      "parent_id": "com_2263_2562"
+    },
+    {
+      "name": "Reformed Theological College",
+      "id": "com_2263_3167",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Reformed Theological College",
+      "id": "col_2263_3167",
+      "parent_id": "com_2263_3167"
+    },
+    {
+      "name": "Reformed Theological College",
+      "id": "col_2263_3167",
+      "parent_id": "com_2263_3167"
+    },
+    {
+      "name": "Science of Religion and Missiology",
+      "id": "com_2263_2663",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Science of Religion and Missiology",
+      "id": "col_2263_2663",
+      "parent_id": "com_2263_2663"
+    },
+    {
+      "name": "Science of Religion and Missiology",
+      "id": "col_2263_2663",
+      "parent_id": "com_2263_2663"
+    },
+    {
+      "name": "The Institute for Missiological and Ecumenical Research",
+      "id": "com_2263_2661",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "The Institute for Missiological and Ecumenical Research",
+      "id": "col_2263_2661",
+      "parent_id": "com_2263_2661"
+    },
+    {
+      "name": "The Institute for Missiological and Ecumenical Research",
+      "id": "col_2263_2661",
+      "parent_id": "com_2263_2661"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "com_2263_6281",
+      "parent_id": "com_2263_1770"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "Verbum et Ecclesia (previously published as Skrif en Kerk)",
+      "id": "col_2263_6281",
+      "parent_id": "com_2263_6281"
+    },
+    {
+      "name": "University of Pretoria Archives",
+      "id": "com_2263_2868",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Media & Communication (University of Pretoria)",
+      "id": "com_2263_4301",
+      "parent_id": "com_2263_2868"
+    },
+    {
+      "name": "Media & Communication (University of Pretoria)",
+      "id": "col_2263_4301",
+      "parent_id": "com_2263_4301"
+    },
+    {
+      "name": "University of Pretoria Art Collections",
+      "id": "com_2263_4416",
+      "parent_id": "com_2263_2868"
+    },
+    {
+      "name": "South African Portrait Gallery",
+      "id": "com_2263_7034",
+      "parent_id": "com_2263_4416"
+    },
+    {
+      "name": "South African Portrait Gallery",
+      "id": "col_2263_7034",
+      "parent_id": "com_2263_7034"
+    },
+    {
+      "name": "South African Portrait Gallery",
+      "id": "col_2263_7034",
+      "parent_id": "com_2263_7034"
+    },
+    {
+      "name": "South African Portrait Gallery",
+      "id": "col_2263_7034",
+      "parent_id": "com_2263_7034"
+    },
+    {
+      "name": "University of Pretoria Art Archive",
+      "id": "com_2263_7031",
+      "parent_id": "com_2263_4416"
+    },
+    {
+      "name": "University of Pretoria Art Archive",
+      "id": "col_2263_7031",
+      "parent_id": "com_2263_7031"
+    },
+    {
+      "name": "University of Pretoria Art Archive",
+      "id": "col_2263_7031",
+      "parent_id": "com_2263_7031"
+    },
+    {
+      "name": "University of Pretoria Art Archive",
+      "id": "col_2263_7031",
+      "parent_id": "com_2263_7031"
+    },
+    {
+      "name": "University of Pretoria Art Archive",
+      "id": "col_2263_7031",
+      "parent_id": "com_2263_7031"
+    },
+    {
+      "name": "University of Pretoria Art Archive",
+      "id": "col_2263_7031",
+      "parent_id": "com_2263_7031"
+    },
+    {
+      "name": "University of Pretoria Art Archive",
+      "id": "col_2263_7031",
+      "parent_id": "com_2263_7031"
+    },
+    {
+      "name": "University of Pretoria Art Archive",
+      "id": "col_2263_7031",
+      "parent_id": "com_2263_7031"
+    },
+    {
+      "name": "Van Gybland Oosterhoff Collection",
+      "id": "com_2263_4417",
+      "parent_id": "com_2263_4416"
+    },
+    {
+      "name": "Van Gybland Oosterhoff Collection",
+      "id": "col_2263_4417",
+      "parent_id": "com_2263_4417"
+    },
+    {
+      "name": "Van Gybland Oosterhoff Collection",
+      "id": "col_2263_4417",
+      "parent_id": "com_2263_4417"
+    },
+    {
+      "name": "Van Gybland Oosterhoff Collection",
+      "id": "col_2263_4417",
+      "parent_id": "com_2263_4417"
+    },
+    {
+      "name": "Van Gybland Oosterhoff Collection",
+      "id": "col_2263_4417",
+      "parent_id": "com_2263_4417"
+    },
+    {
+      "name": "Van Tilburg Collection",
+      "id": "com_2263_18719",
+      "parent_id": "com_2263_4416"
+    },
+    {
+      "name": "Van Tilburg Collection",
+      "id": "col_2263_18719",
+      "parent_id": "com_2263_18719"
+    },
+    {
+      "name": "UP Photographic Collection",
+      "id": "com_2263_3762",
+      "parent_id": "com_2263_2868"
+    },
+    {
+      "name": "UP Photographic Collection",
+      "id": "col_2263_3762",
+      "parent_id": "com_2263_3762"
+    },
+    {
+      "name": "UP Photographic Collection",
+      "id": "col_2263_3762",
+      "parent_id": "com_2263_3762"
+    },
+    {
+      "name": "UP Photographic Collection",
+      "id": "col_2263_3762",
+      "parent_id": "com_2263_3762"
+    },
+    {
+      "name": "University of Pretoria Archives",
+      "id": "col_2263_2868",
+      "parent_id": "com_2263_2868"
+    },
+    {
+      "name": "University of Pretoria Archives",
+      "id": "col_2263_2868",
+      "parent_id": "com_2263_2868"
+    },
+    {
+      "name": "University of Pretoria - Creative Outputs (DRI)",
+      "id": "com_2263_72163",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Design",
+      "id": "com_2263_75598",
+      "parent_id": "com_2263_72163"
+    },
+    {
+      "name": "Design",
+      "id": "col_2263_75598",
+      "parent_id": "com_2263_75598"
+    },
+    {
+      "name": "Design",
+      "id": "col_2263_75598",
+      "parent_id": "com_2263_75598"
+    },
+    {
+      "name": "Film",
+      "id": "com_2263_75599",
+      "parent_id": "com_2263_72163"
+    },
+    {
+      "name": "Film",
+      "id": "col_2263_75599",
+      "parent_id": "com_2263_75599"
+    },
+    {
+      "name": "Fine Arts",
+      "id": "com_2263_72164",
+      "parent_id": "com_2263_72163"
+    },
+    {
+      "name": "Fine Arts",
+      "id": "col_2263_72164",
+      "parent_id": "com_2263_72164"
+    },
+    {
+      "name": "Fine Arts",
+      "id": "col_2263_72164",
+      "parent_id": "com_2263_72164"
+    },
+    {
+      "name": "Fine Arts",
+      "id": "col_2263_72164",
+      "parent_id": "com_2263_72164"
+    },
+    {
+      "name": "Literary Arts",
+      "id": "com_2263_72166",
+      "parent_id": "com_2263_72163"
+    },
+    {
+      "name": "Literary Arts",
+      "id": "col_2263_72166",
+      "parent_id": "com_2263_72166"
+    },
+    {
+      "name": "Literary Arts",
+      "id": "col_2263_72166",
+      "parent_id": "com_2263_72166"
+    },
+    {
+      "name": "Literary Arts",
+      "id": "col_2263_72166",
+      "parent_id": "com_2263_72166"
+    },
+    {
+      "name": "Music",
+      "id": "com_2263_72165",
+      "parent_id": "com_2263_72163"
+    },
+    {
+      "name": "Music",
+      "id": "col_2263_72165",
+      "parent_id": "com_2263_72165"
+    },
+    {
+      "name": "Music",
+      "id": "col_2263_72165",
+      "parent_id": "com_2263_72165"
+    },
+    {
+      "name": "Music",
+      "id": "col_2263_72165",
+      "parent_id": "com_2263_72165"
+    },
+    {
+      "name": "Television",
+      "id": "com_2263_75600",
+      "parent_id": "com_2263_72163"
+    },
+    {
+      "name": "Television",
+      "id": "col_2263_75600",
+      "parent_id": "com_2263_75600"
+    },
+    {
+      "name": "Television",
+      "id": "col_2263_75600",
+      "parent_id": "com_2263_75600"
+    },
+    {
+      "name": "Theatre, Performance and Dance",
+      "id": "com_2263_75601",
+      "parent_id": "com_2263_72163"
+    },
+    {
+      "name": "Theatre, Performance and Dance",
+      "id": "col_2263_75601",
+      "parent_id": "com_2263_75601"
+    },
+    {
+      "name": "University of Pretoria: Research Output",
+      "id": "com_2263_76",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "University of Pretoria: Research Output",
+      "id": "col_2263_76",
+      "parent_id": "com_2263_76"
+    },
+    {
+      "name": "University of Pretoria: Research Output",
+      "id": "col_2263_76",
+      "parent_id": "com_2263_76"
+    },
+    {
+      "name": "University of Pretoria: Research Output",
+      "id": "col_2263_76",
+      "parent_id": "com_2263_76"
+    },
+    {
+      "name": "University of Pretoria: Research Output",
+      "id": "col_2263_76",
+      "parent_id": "com_2263_76"
+    },
+    {
+      "name": "University of Pretoria: Research Output",
+      "id": "col_2263_76",
+      "parent_id": "com_2263_76"
+    },
+    {
+      "name": "UP E-Press",
+      "id": "com_2263_7669",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "UP E-Press",
+      "id": "col_2263_7669",
+      "parent_id": "com_2263_7669"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "com_2263_6717",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "col_2263_6717",
+      "parent_id": "com_2263_6717"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "col_2263_6717",
+      "parent_id": "com_2263_6717"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "col_2263_6717",
+      "parent_id": "com_2263_6717"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "col_2263_6717",
+      "parent_id": "com_2263_6717"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "col_2263_6717",
+      "parent_id": "com_2263_6717"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "col_2263_6717",
+      "parent_id": "com_2263_6717"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "col_2263_6717",
+      "parent_id": "com_2263_6717"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "col_2263_6717",
+      "parent_id": "com_2263_6717"
+    },
+    {
+      "name": "UP Executive Office",
+      "id": "col_2263_6717",
+      "parent_id": "com_2263_6717"
+    },
+    {
+      "name": "Veterinary Science",
+      "id": "com_2263_78",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "African Veterinary Information Portal",
+      "id": "com_2263_31993",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "African Veterinary Information Portal",
+      "id": "col_2263_31993",
+      "parent_id": "com_2263_31993"
+    },
+    {
+      "name": "African Veterinary Information Portal",
+      "id": "col_2263_31993",
+      "parent_id": "com_2263_31993"
+    },
+    {
+      "name": "African Veterinary Information Portal",
+      "id": "col_2263_31993",
+      "parent_id": "com_2263_31993"
+    },
+    {
+      "name": "African Veterinary Information Portal",
+      "id": "col_2263_31993",
+      "parent_id": "com_2263_31993"
+    },
+    {
+      "name": "Anatomy and Physiology",
+      "id": "com_2263_1707",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Christine Seegers Biomedical Illustrations",
+      "id": "com_2263_1971",
+      "parent_id": "com_2263_1707"
+    },
+    {
+      "name": "Christine Seegers Biomedical Illustrations",
+      "id": "col_2263_1971",
+      "parent_id": "com_2263_1971"
+    },
+    {
+      "name": "Christine Seegers Biomedical Illustrations",
+      "id": "col_2263_1971",
+      "parent_id": "com_2263_1971"
+    },
+    {
+      "name": "Christine Seegers Biomedical Illustrations",
+      "id": "col_2263_1971",
+      "parent_id": "com_2263_1971"
+    },
+    {
+      "name": "Christine Seegers Biomedical Illustrations",
+      "id": "col_2263_1971",
+      "parent_id": "com_2263_1971"
+    },
+    {
+      "name": "Anatomy and Physiology",
+      "id": "col_2263_1707",
+      "parent_id": "com_2263_1707"
+    },
+    {
+      "name": "Anatomy and Physiology",
+      "id": "col_2263_1707",
+      "parent_id": "com_2263_1707"
+    },
+    {
+      "name": "Anatomy and Physiology",
+      "id": "col_2263_1707",
+      "parent_id": "com_2263_1707"
+    },
+    {
+      "name": "Biomedical Research Centre",
+      "id": "com_2263_10095",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Biomedical Research Centre",
+      "id": "col_2263_10095",
+      "parent_id": "com_2263_10095"
+    },
+    {
+      "name": "Biomedical Research Centre",
+      "id": "col_2263_10095",
+      "parent_id": "com_2263_10095"
+    },
+    {
+      "name": "Centre for Veterinary Wildlife Studies",
+      "id": "com_2263_7620",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Centre for Veterinary Wildlife Studies",
+      "id": "col_2263_7620",
+      "parent_id": "com_2263_7620"
+    },
+    {
+      "name": "Centre for Veterinary Wildlife Studies",
+      "id": "col_2263_7620",
+      "parent_id": "com_2263_7620"
+    },
+    {
+      "name": "Centre for Veterinary Wildlife Studies",
+      "id": "col_2263_7620",
+      "parent_id": "com_2263_7620"
+    },
+    {
+      "name": "Companion Animal Clinical Studies",
+      "id": "com_2263_1802",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Companion Animal Clinical Studies",
+      "id": "col_2263_1802",
+      "parent_id": "com_2263_1802"
+    },
+    {
+      "name": "Companion Animal Clinical Studies",
+      "id": "col_2263_1802",
+      "parent_id": "com_2263_1802"
+    },
+    {
+      "name": "Companion Animal Clinical Studies",
+      "id": "col_2263_1802",
+      "parent_id": "com_2263_1802"
+    },
+    {
+      "name": "Companion Animal Clinical Studies",
+      "id": "col_2263_1802",
+      "parent_id": "com_2263_1802"
+    },
+    {
+      "name": "Department of Library Services Collections",
+      "id": "com_2263_79",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Department of Library Services Collections",
+      "id": "col_2263_79",
+      "parent_id": "com_2263_79"
+    },
+    {
+      "name": "Department of Library Services Collections",
+      "id": "col_2263_79",
+      "parent_id": "com_2263_79"
+    },
+    {
+      "name": "Department of Library Services Collections",
+      "id": "col_2263_79",
+      "parent_id": "com_2263_79"
+    },
+    {
+      "name": "Department of Library Services Collections",
+      "id": "col_2263_79",
+      "parent_id": "com_2263_79"
+    },
+    {
+      "name": "Department of Library Services Collections",
+      "id": "col_2263_79",
+      "parent_id": "com_2263_79"
+    },
+    {
+      "name": "Department of Library Services Collections",
+      "id": "col_2263_79",
+      "parent_id": "com_2263_79"
+    },
+    {
+      "name": "Equine Research Centre",
+      "id": "com_2263_3460",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Equine Research Centre",
+      "id": "col_2263_3460",
+      "parent_id": "com_2263_3460"
+    },
+    {
+      "name": "Equine Research Centre",
+      "id": "col_2263_3460",
+      "parent_id": "com_2263_3460"
+    },
+    {
+      "name": "Events (Faculty of Veterinary Science)",
+      "id": "com_2263_45800",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Events (Faculty of Veterinary Science)",
+      "id": "col_2263_45800",
+      "parent_id": "com_2263_45800"
+    },
+    {
+      "name": "Hans Hoheisen Wildlife Research Station",
+      "id": "com_2263_17654",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Hans Hoheisen Wildlife Research Station",
+      "id": "col_2263_17654",
+      "parent_id": "com_2263_17654"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "com_2263_899",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "col_2263_899",
+      "parent_id": "com_2263_899"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "col_2263_899",
+      "parent_id": "com_2263_899"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "col_2263_899",
+      "parent_id": "com_2263_899"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "col_2263_899",
+      "parent_id": "com_2263_899"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "col_2263_899",
+      "parent_id": "com_2263_899"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "col_2263_899",
+      "parent_id": "com_2263_899"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "col_2263_899",
+      "parent_id": "com_2263_899"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "col_2263_899",
+      "parent_id": "com_2263_899"
+    },
+    {
+      "name": "History of the Faculty of Veterinary Science",
+      "id": "col_2263_899",
+      "parent_id": "com_2263_899"
+    },
+    {
+      "name": "Onderstepoort Skills Laboratory",
+      "id": "com_2263_60796",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Onderstepoort Skills Laboratory",
+      "id": "col_2263_60796",
+      "parent_id": "com_2263_60796"
+    },
+    {
+      "name": "Paraclinical Sciences",
+      "id": "com_2263_1865",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Paraclinical Sciences",
+      "id": "col_2263_1865",
+      "parent_id": "com_2263_1865"
+    },
+    {
+      "name": "Paraclinical Sciences",
+      "id": "col_2263_1865",
+      "parent_id": "com_2263_1865"
+    },
+    {
+      "name": "Paraclinical Sciences",
+      "id": "col_2263_1865",
+      "parent_id": "com_2263_1865"
+    },
+    {
+      "name": "Paraclinical Sciences",
+      "id": "col_2263_1865",
+      "parent_id": "com_2263_1865"
+    },
+    {
+      "name": "Paraclinical Sciences",
+      "id": "col_2263_1865",
+      "parent_id": "com_2263_1865"
+    },
+    {
+      "name": "Production Animal Studies",
+      "id": "com_2263_81",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Production Animal Studies",
+      "id": "col_2263_81",
+      "parent_id": "com_2263_81"
+    },
+    {
+      "name": "Production Animal Studies",
+      "id": "col_2263_81",
+      "parent_id": "com_2263_81"
+    },
+    {
+      "name": "Production Animal Studies",
+      "id": "col_2263_81",
+      "parent_id": "com_2263_81"
+    },
+    {
+      "name": "Production Animal Studies",
+      "id": "col_2263_81",
+      "parent_id": "com_2263_81"
+    },
+    {
+      "name": "Production Animal Studies",
+      "id": "col_2263_81",
+      "parent_id": "com_2263_81"
+    },
+    {
+      "name": "Production Animal Studies",
+      "id": "col_2263_81",
+      "parent_id": "com_2263_81"
+    },
+    {
+      "name": "Researchers (Veterinary Science)",
+      "id": "com_2263_1845",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Researchers (Veterinary Science)",
+      "id": "col_2263_1845",
+      "parent_id": "com_2263_1845"
+    },
+    {
+      "name": "Veterinary Grey Literature",
+      "id": "com_2263_40118",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Veterinary Grey Literature",
+      "id": "col_2263_40118",
+      "parent_id": "com_2263_40118"
+    },
+    {
+      "name": "Veterinary Tropical Diseases",
+      "id": "com_2263_1709",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Veterinary Tropical Diseases",
+      "id": "col_2263_1709",
+      "parent_id": "com_2263_1709"
+    },
+    {
+      "name": "Veterinary Tropical Diseases",
+      "id": "col_2263_1709",
+      "parent_id": "com_2263_1709"
+    },
+    {
+      "name": "Veterinary Tropical Diseases",
+      "id": "col_2263_1709",
+      "parent_id": "com_2263_1709"
+    },
+    {
+      "name": "Veterinary Tropical Diseases",
+      "id": "col_2263_1709",
+      "parent_id": "com_2263_1709"
+    },
+    {
+      "name": "Veterinary Tropical Diseases",
+      "id": "col_2263_1709",
+      "parent_id": "com_2263_1709"
+    },
+    {
+      "name": "Veterinary Wildlife Unit",
+      "id": "com_2263_2337",
+      "parent_id": "com_2263_78"
+    },
+    {
+      "name": "Veterinary Wildlife Unit",
+      "id": "col_2263_2337",
+      "parent_id": "com_2263_2337"
+    },
+    {
+      "name": "Veterinary Wildlife Unit",
+      "id": "col_2263_2337",
+      "parent_id": "com_2263_2337"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "com_2263_51209",
+      "parent_id": "2263/0"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    },
+    {
+      "name": "Workspace (UPSpace)",
+      "id": "col_2263_51209",
+      "parent_id": "com_2263_51209"
+    }
+  ]
+}
