@@ -1,0 +1,75 @@
+name,id,parent_id
+International Livestock Research Institute,com_10568_1,
+Animal bioscience program,com_10568_171,com_10568_1
+Animal science for sustainable productivity program,com_10568_27868,com_10568_1
+Biosciences eastern and central Africa (BecA) ILRI Hub,com_10568_178,com_10568_1
+Feed and forage development program,com_10568_27867,com_10568_1
+Food safety and zoonoses program,com_10568_231,com_10568_1
+"Livelihoods, gender and impact program",com_10568_27869,com_10568_1
+Livestock systems and environment program,com_10568_150,com_10568_1
+"Policy, trade and value chains program",com_10568_230,com_10568_1
+Vaccine biosciences program,com_10568_32724,com_10568_1
+Livestock genetics program,com_10568_79340,com_10568_1
+Animal and human health program,com_10568_79341,com_10568_1
+"Policies, institutions and livelihoods program",com_10568_79342,com_10568_1
+Sustainable livestock systems program,com_10568_79343,com_10568_1
+Impact at scale program,com_10568_79344,com_10568_1
+Research methods group,com_10568_173,com_10568_1
+Africa RISING project,com_10568_16498,com_10568_1
+Africa RISING Ethiopia project,com_10568_16500,com_10568_1
+LIVES project,com_10568_25101,com_10568_1
+AVCD project,com_10568_72600,com_10568_1
+ACGG project,col_10568_65219,com_10568_1
+CTLGH project,com_10568_74302,com_10568_1
+System-wide Livestock Programme,com_10568_133,com_10568_1
+East Africa Dairy Development Project,com_10568_2347,com_10568_1
+ILRI capacity development unit,col_10568_113,com_10568_1
+ILRI communications and knowledge management unit,col_10568_111,com_10568_1
+ILRI articles in journals,col_10568_3,com_10568_1
+International Water Management Institute,com_10568_16814,
+IWMI Journal Articles,col_10568_36185,com_10568_16814
+Feed the Future Innovation Lab for Small-Scale Irrigation,com_10568_35730,com_10568_16814
+Challenge Program on Water and Food,com_10568_2983,com_10568_16814
+International Potato Center,com_10568_51671,
+CIP Journal Articles,col_10568_53090,com_10568_51671
+Food Resilience Through Root and Tuber Crops (FoodSTART+),col_10568_89347,com_10568_51671
+CGIAR Programs and Platforms,com_10568_97114,
+"Accelerating Impacts of CGIAR Climate Research for Africa",com_10568_113192,com_10568_97114
+"CGIAR GENDER Platform",com_10568_106605,com_10568_97114
+"CGIAR Excellence in Breeding Platform",com_10568_97117,com_10568_97114
+"CGIAR Genebank Platform",com_10568_97123,com_10568_97114
+"CGIAR Platform for Big Data in Agriculture",com_10568_89416,com_10568_97114
+"CGIAR Research Program on Agriculture for Nutrition and Health",com_10568_97115,com_10568_97114
+"CGIAR Research Program on Aquatic Agricultural Systems",com_10568_97135,com_10568_97114
+"CGIAR Research Program on Climate Change, Agriculture and Food Security",com_10568_3530,com_10568_97114
+"CGIAR Research Program on Dryland Cereals",com_10568_97137,com_10568_97114
+"CGIAR Research Program on Dryland Systems",com_10568_51670,com_10568_97114
+"CGIAR Research Program on Fish",com_10568_97119,com_10568_97114
+"CGIAR Research Program on Forests, Trees and Agroforestry",com_10568_97121,com_10568_97114
+"CGIAR Research Program on Grain Legumes and Dryland Cereals",com_10568_97125,com_10568_97114
+"CGIAR Research Program on Grain Legumes",com_10568_97139,com_10568_97114
+"CGIAR Research Program on Integrated Systems for the Humid Tropics",com_10568_35409,com_10568_97114
+"CGIAR Research Program on Livestock",com_10568_80099,com_10568_97114
+"CGIAR Research Program on Livestock and Fish",com_10568_3112,com_10568_97114
+"CGIAR Research Program on Maize",com_10568_97127,com_10568_97114
+"CGIAR Research Program on Policies, Institutions and Markets",com_10568_97129,com_10568_97114
+"CGIAR Research Program on Rice",com_10568_97131,com_10568_97114
+"CGIAR Research Program on Roots, Tubers and Bananas",com_10568_80100,com_10568_97114
+"CGIAR Research Program on Water, Land and Ecosystems",com_10568_34494,com_10568_97114
+"CGIAR Research Program on Wheat",com_10568_97133,com_10568_97114
+Alliance of Bioversity International and CIAT,com_10568_106146,
+Alliance Bioversity CIAT Research Levers,com_10568_106935,com_10568_106146
+Bioversity International,com_10568_35442,com_10568_106146
+Bioversity Journal Articles,col_10568_35501,com_10568_106146
+Effective Genetic Resources Conservation and Use,col_10568_69419,com_10568_106146
+Healthy Diets from Sustainable Food Systems,col_10568_69160,com_10568_106146
+"Productive and Resilient Farms, Forests and Landscapes",col_10568_69089,com_10568_106146
+International Center for Tropical Agriculture,com_10568_35697,com_10568_106146
+CIAT Articles in Journals,col_10568_35700,com_10568_106146
+CIAT Genetic Resources,com_10568_80731,com_10568_106146
+CIAT Agrobiodiversity,col_10568_56649,com_10568_106146
+CIAT Decision and Policy Analysis,col_10568_56648,com_10568_106146
+CIAT Soils,col_10568_56650,com_10568_106146
+CIAT Alianzas de Aprendizaje,col_10568_79791,com_10568_106146
+CIAT Colombia Post-Conflict,col_10568_77125,com_10568_106146
+Pan-Africa Bean Research Alliance,com_10568_80211,com_10568_106146
